@@ -5,6 +5,74 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D), typeof(SpriteRenderer), typeof(Animator))]
 public class PlayerController : MonoBehaviour
 {
+    //Private Score variable (_ to indicate an internal variable)
+    private int _score = 0;
+
+    //Public variable for getting and setting score
+    public int score
+    {
+        get
+        {
+            return _score;
+        }
+        set
+        {
+            //Cannot roll over the maximum score
+            if (value == maxScore)
+            {
+               value = 0;
+               //Update lives by 1
+            }
+            _score = value;
+
+            Debug.Log($"Score value on {gameObject.name} has changed to {score}");
+        }
+    }
+
+    //Max score possible
+    [SerializeField] private int maxScore = 100; 
+    
+    //Private Lives variable (_ to indicate an internal variable)
+    private int _lives = 99;
+
+    //Public variable for getting and setting lives
+    public int lives
+    {
+        get
+        {
+            return _lives;
+        }
+        set
+        {
+            //All lives lost (zero counts as a life due to the check
+            if (value < 0)
+            {
+                //Game over function called here
+                //Return to prevent the rest of the function being called
+                return;
+            }
+
+            //Lost a life
+            if (value < _lives)
+            {
+                //Respawn function called here
+            }
+
+            //Cannot roll over the maximum amount of lives
+            if (value >= maxLives)
+            {
+                value = maxLives;
+            }
+            _lives = value;
+
+            Debug.Log($"Lives value on {gameObject.name} has changed to {lives}");
+        }
+    }
+
+    //Max lives possible
+    [SerializeField] private int maxLives = 99;
+
+    //Movement Variables
     [SerializeField, Range (1, 20)] private float speed = 5;
     [SerializeField, Range(1, 20)] private float swimForce = 5;
     [SerializeField, Range(0.01f, 1)] private float groundCheckRadius = 0.02f;
