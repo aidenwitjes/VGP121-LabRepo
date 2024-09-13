@@ -1,0 +1,5407 @@
+fileFormatVersion: 2
+guid: b88db34a7d039524fa5238cbe2e270e6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bitesize_Turn_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 855
+        width: 16
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7435fe3ab36f5e3459a8f62e4693eecd
+      internalID: 1098118485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Turn_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 854
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bb7e6d91e9419418f081549014c472
+      internalID: -526879671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Turn_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 854
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cf16d47172f1e4195906008f8a9985
+      internalID: -505821161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Turn_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 855
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1d74abd80651041a0781ef44e84f68
+      internalID: -1146145823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 854
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2f369744ef6c144a9895219bec2a46
+      internalID: -1585205368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 855
+        width: 29
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f508397ae94a4e4d93f4a83b12d9ef3
+      internalID: 1007749172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 854
+        width: 27
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23a470b29f4d334094af55e7d258a7e
+      internalID: 1182401847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 853
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8db55c62516394288abf9afe57c274
+      internalID: -1442124596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 852
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39d187f8534e084893a7e05a82bf1c5
+      internalID: 1393365624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_6
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 852
+        width: 24
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b199b00b605e4547a92c02642350cb9
+      internalID: -595058192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 851
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dff35087a58af645a36b1ae333f418f
+      internalID: 475394392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 851
+        width: 27
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b404e37add2441b4d92b6ffb956fcff9
+      internalID: 1579736914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_9
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 851
+        width: 29
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd944968f6e91114296f386b8b3030f2
+      internalID: -1974072190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_10
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 852
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1767fef640ca291488cc2194e33ff5c5
+      internalID: 2141190071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_11
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 851
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b496dfc7b8bcbc439dabe231bc4b608
+      internalID: 1098207425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 851
+        width: 31
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bda1b3c220164d81d9f3ca0d1a2ff
+      internalID: -1043540685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Swim_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 850
+        width: 30
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e2cb7517764934dbabfdc02125e783
+      internalID: 530030858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Death_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 818
+        width: 31
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b50ab92854c8e54c8f48ce6755bfcd6
+      internalID: -1167038645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Death_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 817
+        width: 30
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7aa05da7d96a34f8d4906a3ed9ec7f
+      internalID: 1685387217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Death_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 814
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676bafc29537dbd499ef23c515660d44
+      internalID: 1682323627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bitesize_Death_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 814
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7839e057b81ff5343ac28da3d8233db2
+      internalID: 1025698970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 767
+        width: 62
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a9681f3038c3044bd12ecb1cb70865
+      internalID: 707454093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 768
+        width: 61
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92208a96490aa50488b32762dcf0c1c4
+      internalID: 1739198220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 768
+        width: 57
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43577b32d604d8a44a5820b2b43aae17
+      internalID: 2125579286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 768
+        width: 50
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b95021c62f88c84a8f948dc6e215e9b
+      internalID: 1834279384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 768
+        width: 45
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d7bb0737222a48926d76ee4e78918
+      internalID: -1748393431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 768
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020b3882de1f98d4b9573456c7e4a4da
+      internalID: -913109194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_7
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 767
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005fb1eeed2e5b84894dac6eb948765c
+      internalID: -614616099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 767
+        width: 42
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ce6ea6a71c89c48a6081d2ef6be012
+      internalID: 524522320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 768
+        width: 43
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c66e147755db4f9754dbf8800bb26
+      internalID: 1539031560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_10
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 768
+        width: 45
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e81def336e52494ea245ec213c91dfa
+      internalID: 1302532931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 770
+        width: 51
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e33479e224b7f4d9ce049575689ab8
+      internalID: -2040655230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_12
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 770
+        width: 56
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dd62ff7f272dd499833b9e9df6695a
+      internalID: -418942716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_13
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 771
+        width: 62
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfe2a3bfe059834e8f3ddef191478b5
+      internalID: 1351403355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 772
+        width: 63
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a2d87d353c9e84187f776d500d39b2
+      internalID: -98162087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_15
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 772
+        width: 62
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4798ec2f2834c8d48b3e6780b1adc816
+      internalID: 746235013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Swim_16
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 771
+        width: 61
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b5d0d9f009f4a478c3443a7ea7c067
+      internalID: 301771893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Death_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 716
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a85c56609136c4e98af71798b6404e
+      internalID: 1562770414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Death_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 712
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec0c2d4393a1174c98016906f0e1c7c
+      internalID: -539068231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Death_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 704
+        width: 36
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e50b94c70dd604c8122de081721a04
+      internalID: -1031595413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Death_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 698
+        width: 38
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf5fdfcbac92fd47aabe925c5f2a71d
+      internalID: 929457311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Death_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 698
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ff8576a5f8ef4693b0dca3552f485
+      internalID: 847515651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Death_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 705
+        width: 47
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceccb76b2ed4ad49bfffa3c4d47f34c
+      internalID: 2024892510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 711
+        width: 52
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41a1a1afbc48de4cbe77691e5c7b91f
+      internalID: 891000575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 712
+        width: 48
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e3a92f309161d438c636762ef43ecc
+      internalID: 389459086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 714
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16841cf04c539774bb0507bfbb3a2e93
+      internalID: -460804755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 717
+        width: 49
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b5198e7f17fb2469b67ab32a6ecdfe
+      internalID: 1060710592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 718
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555a10e98e44b304880fb0d9830a4a46
+      internalID: -1970964559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_6
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 716
+        width: 45
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36528f1ebb38841a09fc0f7b2ec98b
+      internalID: -1472476735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_7
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 714
+        width: 42
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce38262ce422a842b76e870e83e725f
+      internalID: 1275378333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_8
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 715
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cfc8335ee3a0343aa76fafdcc25f1b
+      internalID: 2120498001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomps_Turn_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 717
+        width: 44
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36b9f1e775ed9f4eba5f515c4652aca
+      internalID: -1043189311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 656
+        width: 52
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0a4a5d606ac84da8c861dff848e0f
+      internalID: -1449869034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 655
+        width: 50
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4edbdc762640224c9d486ec4c317f3b
+      internalID: -1469501864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 655
+        width: 49
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698ce7cf3f0635e41bc2cfefed8e085a
+      internalID: -1037146490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 654
+        width: 44
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c2b0de0a6fdbb46869f5a09a753f7c
+      internalID: 1400973342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 653
+        width: 41
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe8307eeac46c64dbcb45f3d6bff477
+      internalID: 85090645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 652
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f012eb6add18b46abfe97bb3a9fad2
+      internalID: -594605956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 652
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0bc3f621a806b4cb258da70d4f7784
+      internalID: 711516708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 651
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af5372f7e0cb845bd9a42a1d99e14a
+      internalID: 452065319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 650
+        width: 39
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dfffa0206a8c548a91a09ca70cb8f9
+      internalID: -1017264853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 649
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab69c4e6de28c44964cae9f87dfcd8
+      internalID: 819571922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_11
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 649
+        width: 46
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f8e1ed4c6e9c749a3cb569a9d544eb
+      internalID: -1096516398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 649
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2855d220fc91c1648aafe8ef912c2c4e
+      internalID: 736627132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_13
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 648
+        width: 53
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4040144923de494893c9b5e6de6cdb2
+      internalID: -989675555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_14
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 649
+        width: 52
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b73b086c05150449bf92af4a28ac68
+      internalID: 64756145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_15
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 648
+        width: 51
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b28ceaa702f6b49be110720b9e369b
+      internalID: -2145598493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Swim_16
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 647
+        width: 52
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203faa20eff37fa49bdde4acdf9ff894
+      internalID: -1982504652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Death_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 601
+        width: 49
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d4ec07f4d5f246bd110cdb82ee3e1
+      internalID: 1373027121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Death_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 597
+        width: 47
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dde27cadd2a2447a920e809defb6ed
+      internalID: -1196286985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Death_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 593
+        width: 52
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3ff67c280a764c8eee80b76ec4797
+      internalID: 678104381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Death_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 594
+        width: 51
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de182c7cb26f6cf4e889c72bf9ef11c4
+      internalID: -1614985541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_1
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 595
+        width: 47
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac795cfd295d29343951a1f6f6114d45
+      internalID: -1193625656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 595
+        width: 47
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37bce9fd9b998b4d937c10d1367fbbd
+      internalID: 1604123428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 596
+        width: 48
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebc8526805470f4a94571396f096a0b
+      internalID: -935271416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 598
+        width: 48
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54683e592cf540341b3eff350507e5f7
+      internalID: -1512042866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_5
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 599
+        width: 44
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328739f48b02933418b7cdcc38e07d53
+      internalID: 1793198025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 42
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3cd823aa7b71549a0f436805dee166
+      internalID: -886383230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 599
+        width: 35
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb1f7fc17606e468de5e6ff51357b7
+      internalID: -1987396966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_8
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 598
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd02c592f5656e4c90aa86e85b72a0f
+      internalID: -693272250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChompsJr_Turn_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 597
+        width: 31
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4759a0d39482878458a99289816b39ed
+      internalID: 1788284996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 533
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8998000527d6a4dad5c2d4107d58e2
+      internalID: -661596142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 532
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c903b1025397bfe4e8fb32dee7e0f40a
+      internalID: -2038803855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 531
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dec7598f5251f240bb7bbcfd2f8a6c6
+      internalID: 1637796631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 531
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634673e7073a264caf2661a28f145a3
+      internalID: 1233445580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 531
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928f69cea61ab054895fa10cd646bdca
+      internalID: 631495682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 529
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f024dc4f334618a4d8f0f84678842d90
+      internalID: -1521085666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 528
+        width: 56
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b011ea2bdf3a094c93ef8471d972066
+      internalID: 488582002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 530
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fb627ac8ab724498f5de166213d42d
+      internalID: -457502517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 528
+        width: 54
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536cbba62b398244e9c9fe6bbf6c50c7
+      internalID: -2077195746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 529
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6044c012316fa474a9f2f01ba6297493
+      internalID: -2067202387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 525
+        width: 52
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da471c2bd06e53498357ca54f1949d6
+      internalID: -184636890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 526
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9136e56d72b08d84681d3eee57723efb
+      internalID: 624384185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 525
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d140354e6d204b8de2110a784362b
+      internalID: 1921579655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 525
+        width: 56
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995715981660e5a4e8a899ffb8d48b58
+      internalID: 167354649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 463
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3da8aa9842ed49912d3851fa79ff9
+      internalID: 1619188430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 456
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acfacd8101191c48936c787afffa11b
+      internalID: -987435754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 452
+        width: 49
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6ceb5dc5a01d94f90557c4df5d93ef
+      internalID: 1226400901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 449
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca2022dc94beeb4f89ad4a8bd8d999c
+      internalID: -1253852818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 448
+        width: 56
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c71ec23d71d54e807a42a12bd0e38
+      internalID: -235022167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 462
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414d5473a0f8934ca65bafdf61d0a1c
+      internalID: -1901603302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 459
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174f4bf7e42da3f4299833d150b28550
+      internalID: -1355611004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 454
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da06ba86705ce478f7291c6d988320
+      internalID: -36056419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 452
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e43c3f0232f584a848bb3265046d9e
+      internalID: 1857104349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 447
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f114877b6a9724843b2e483d0b79f8c7
+      internalID: -161624406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 449
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8767f25ace28ca440a8e02cc6a397848
+      internalID: -1011519406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 452
+        width: 45
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70342ab4b996345a893b46241eda15
+      internalID: -208106909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 406
+        width: 53
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de37bc6605ada44a9129cbe7328fd4d
+      internalID: -1470386422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 401
+        width: 51
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5974111056b85a4498dfc439084287c
+      internalID: 1409253662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 397
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6c415a388b34f47a0cff1aec21d202
+      internalID: -388845557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 392
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff66f906b02277a469562e86f0ba9ab4
+      internalID: 2117632825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 390
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa6d3023a7ed294a8a0185aeed6418b
+      internalID: -327404124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 392
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e37891317a5344aa7a9c4c8b48232
+      internalID: 732734863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 384
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1776ac1c339c1ac4ea380647056cac19
+      internalID: -2140094872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 381
+        width: 34
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185e30f3c85e42a4dae22b0bc63c02de
+      internalID: -952993460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 384
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e60498cfc8d37f44a9619069cae7589
+      internalID: -2121999528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 387
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5288040c6e7377f41817cb7cc55329d8
+      internalID: -1301648050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 384
+        width: 39
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dce27251d9c2d41b5a7e7959db197c
+      internalID: 1632465294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 383
+        width: 40
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559ba96d45336f84eb2dc1a4c7e0403b
+      internalID: -1320996849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 381
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd4a7ebd89c6e1448680510f1186fa6
+      internalID: 2128924621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 377
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb3744464580f245a520b15743fca48
+      internalID: -1087484504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 376
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339f8e63cdb54e742acd6ebfc2f70877
+      internalID: -1296463579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 373
+        width: 53
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9c965217fe8b544b236e2b9cc7d9ff
+      internalID: 1197243102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 313
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5778c5400857047adde7542af89362
+      internalID: 1665285564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 312
+        width: 54
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6287a2aabb40b3b4288e83d399a224d0
+      internalID: -1159438546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 311
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19869bab47fcaad45b08ef06d2e7f2e0
+      internalID: -1181926643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 311
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7170d58919eb6e4fbb0f0203c585650
+      internalID: -1105583650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 311
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ba84d2e78cd904e93bc01fd438baf8
+      internalID: -314221937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 309
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd5eb387f655147879092b18f4555c
+      internalID: -654644720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_7
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 308
+        width: 56
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaf7ddfe6f102a4c90fa1a6434377bc
+      internalID: 1987706170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 310
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831629256aec2214b85041f398208d62
+      internalID: 279234048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 308
+        width: 54
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fac1ddf7169f44f9f27037fc982ee1
+      internalID: 1468475146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 309
+        width: 50
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f379f05787b14c4a9565113b75e45ed
+      internalID: 1477211769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 305
+        width: 52
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4492b88b02cc7408dab576cce92e8f
+      internalID: -1244027280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_12
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 306
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b55f3a0938fa24488fe5e1ff8bba4f
+      internalID: -1053973473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 305
+        width: 55
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3223574cdf9044abe5356331c7440
+      internalID: -1351909452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Croctopus_Swim_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 306
+        width: 56
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bfc034d6b239f43af31fb9c33523d1
+      internalID: -1982768677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 243
+        width: 48
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d20fd11ae0804c8452c9fa4be3dd9
+      internalID: -1344748195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 236
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e4ba52ff2da1488c428d64a0e0307
+      internalID: 1692923189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 232
+        width: 49
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe84d0869ebb54d4a81a95f63092447f
+      internalID: 703544491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 229
+        width: 53
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4ee247cf7afc942aa07784e795e171
+      internalID: 280241830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 228
+        width: 56
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09369763d1fb11346aac68c0cda45b94
+      internalID: -1757301281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 242
+        width: 44
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90f43edbb922f243ac6acb6e734fda1
+      internalID: -1097315626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 239
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47fcd5e8c9b8740b241a46fcf19ff0
+      internalID: 1711125608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 234
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5170a3229ff66644825cf982424413b
+      internalID: 71475703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 232
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac887cc615bb5cd49921d6ee5921e21f
+      internalID: -1966286717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 227
+        width: 28
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92e8f78e859a2c46bff34329a8568a6
+      internalID: -231151226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 229
+        width: 33
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96639a698bf311549b14ea309ba4a636
+      internalID: 1066230601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 232
+        width: 45
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea5cc5de0a6fc4783d01c6ba62703e
+      internalID: -1943345493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 186
+        width: 53
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfdd208ad1b40c4cbf75690c8980abe
+      internalID: -1033273570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 181
+        width: 51
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478279ccbfe900c4bae298d2781180c2
+      internalID: 378290655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 177
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95794f79eaca994793cf404122d36d1
+      internalID: 1888506560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 172
+        width: 48
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a358492613eb640b8787539e0525eb
+      internalID: 1458818558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 170
+        width: 43
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46519affa2b3a4c8cf57240d556fc8
+      internalID: 369359990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 172
+        width: 38
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4b9c6a5d82f2040a3cb5a8fefd8d48
+      internalID: -1726895867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 164
+        width: 39
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068be0a3b96ba734dafd9974482579e6
+      internalID: 790793326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 161
+        width: 34
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129c263a99b8ee5478f6456b1e378d9a
+      internalID: 721668646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 164
+        width: 32
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2432f67532c234b8f3785ba96570ea
+      internalID: -160267416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 167
+        width: 36
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936085bff39830b4e8e9f318c8f06e91
+      internalID: 1933989088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 164
+        width: 39
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a4879f9fcbb245bd39b78c51b9b20
+      internalID: 2088919325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 163
+        width: 40
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651f9fb42e97056499db47fec38d8003
+      internalID: -1819546707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 161
+        width: 42
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e25b940c6098a4448848bc8d5358bbf
+      internalID: -2091820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 157
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2eb3211b67ef34fb31f726e279fdb2
+      internalID: 1642122267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 156
+        width: 48
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2907b4c01a2adca44b79d02d49764775
+      internalID: -2014760917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 153
+        width: 53
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872aa66d6cadee4f88e719fdf6e49f4
+      internalID: 1749232120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 120
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeec4b71b91b68b4b830797d3e26cfcf
+      internalID: -965029543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 120
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d2931d69c798648af394d031956b58
+      internalID: 347575277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 118
+        width: 29
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8706c5cc57ab85469574bfc61ab379b
+      internalID: -648801080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 124
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1aa51b3ff4a34c9a9085020e20ac1
+      internalID: -2048056810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 115
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e692279d9b493d84fadda63eba7fa389
+      internalID: 1051123831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 126
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055c4f1b26ef2cf47b7b260bb7f6a402
+      internalID: -259240286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 111
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef987743dc0ce0b41bda7fe661d7bd8e
+      internalID: -1738157424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 109
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a521366973519604e924941f3fd96a20
+      internalID: 610050048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 109
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab45a9f883b4547909a199778f51a8
+      internalID: 1095885889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 107
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f26d26f209dbf4a8440736c69575ec
+      internalID: -122776262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 53
+        width: 364
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c36611e05b83842b9fdb15f7b5375a
+      internalID: -497495613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 60
+        width: 37
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34933c089485ee14aaf9119a5f38b9a2
+      internalID: -535038535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 59
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c78bd302a9f38e4a89a91346afedd3e
+      internalID: -1350478167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 57
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c8a2dec7d12684c836c6fd4ba20484
+      internalID: -797505436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 55
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddad8dfca2323d143a34081d9acbdae3
+      internalID: -648739859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 55
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fa2f840958cec49b860bb5b634f0ae
+      internalID: 1047634761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 54
+        width: 36
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc16b8bfe69d44f8e6ada65c96190d
+      internalID: 825512070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 52
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33adb604f270f18438d012e9258af595
+      internalID: 59353677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 50
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2b081f0148d9942a237a6ddbf664f9
+      internalID: -1858148832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 51
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aef2568c02d57d43a522de7a55e6e58
+      internalID: -1438216410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 51
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41675342a170daf4abeb077b966ad6cc
+      internalID: 1493706085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Clambo_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 51
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5985d9e5f8f43a41876b1b04300c720
+      internalID: 273705414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 69
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb97e93edb07bc442973f75b7e80a8aa
+      internalID: -314257229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 45
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb59c70724ca3734688a9b325d7fae48
+      internalID: -1346857921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 13
+        width: 42
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6e69195c40fac4ea137190116a478a
+      internalID: -1075954076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 13
+        width: 40
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c481befe492d4b98bccf6776856bf
+      internalID: 827293913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 12
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7445002d9283d4ba523318389011d9
+      internalID: 2108124210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 37
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a58d8c3b305847ab24d87941ddde5
+      internalID: 482202081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 12
+        width: 36
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df36a93fdb58bd5429a836dd591b2971
+      internalID: 1559621595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 36
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4c75cda25b3a443bd82ce02a18a7cb
+      internalID: 73519631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 12
+        width: 38
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ebb115ed614424182dfbbf584f1c38
+      internalID: -1083825446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 12
+        width: 42
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d3732dbf267994c8f0e91f007de196
+      internalID: 320125531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 11
+        width: 45
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a5774e078e321419dfd83df1bd626c
+      internalID: 1250984271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 11
+        width: 46
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8870b6187a95e14eaeb5154b744807b
+      internalID: 395852803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 11
+        width: 46
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486aa0f5a9e8bd24986a83103efd8439
+      internalID: -752771792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 10
+        width: 46
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b8920a036ff1f4297c33b175cc5492
+      internalID: 2448434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_201
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 19
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c6a55db63a0864ba21c78afb71cea6
+      internalID: 1119349807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_202
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 19
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8891872f928d546b8bbcf19ace414a
+      internalID: 1541362182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_203
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 17
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383de128a7af7c42a85968f52952e63
+      internalID: -823940924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_204
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 17
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34954521c679ff468bd058f439b7b3f
+      internalID: -1757967059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_205
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 19
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da70d17eee1733c45a8abff81b877bd3
+      internalID: 532185463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_206
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0bb0687563cc349b9625a2603efd10
+      internalID: -186310270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_207
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 19
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351fcd1e7b8ab4242aad6758d7893b8d
+      internalID: -447851961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_208
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 19
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9104f1cf7b847d479ab3cd9f1978ea1
+      internalID: -1772789927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_209
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 18
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbd914ca5866a04fb8cebc64af04f0c
+      internalID: -2058778769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_210
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 19
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3645f0263fcc4e96211e1c1db44e7
+      internalID: -269864607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_211
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 19
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fcbbd0ffecbc24ab3c85e10e3591eb
+      internalID: -501165100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_212
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49830ede1618d4d4a845d3cc139a2ffa
+      internalID: -1193860834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_213
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a49598ca0ebca4db353bba8da4d2b9
+      internalID: -1576532152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_214
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e7c67f33125c146a55f71c72b5315e
+      internalID: -1123859095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_215
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6b579c4c836ea4dbf8e37656169526
+      internalID: 1811214762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_216
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddff796f507371241b1372801fdbadbb
+      internalID: 1118407528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_217
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 19
+        width: 13
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9a6196a8a8c5c4ea909381c7bbc2d2
+      internalID: 1242570633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_218
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 19
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f13f907a251187449829438431206cf
+      internalID: -1362531888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_219
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 19
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fde9a4d290ec4642a9f13a562277422
+      internalID: -362128374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_220
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 19
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e569f9a3ec9f14cb65a36234eee3d7
+      internalID: 1571801072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_221
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 17
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce27da230a720a4291a97d6a9cadfb6
+      internalID: -944617744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_222
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 17
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1407a588990f5b4895d269f15d1c1bf
+      internalID: -2014562237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_223
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 17
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c31a61408a12418b8d4846360041e
+      internalID: 1000411721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_224
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e749c00c98231743b2891bf7acc8e68
+      internalID: 1244919380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_225
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 19
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ce9072229a64b4fad617cbf06e040c
+      internalID: 1775026567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_226
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 19
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789233545c468d5459aaa1e12b73c80d
+      internalID: -684330171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_227
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 17
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8017baf05f7f96041ad4ec141422ed56
+      internalID: -427282247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_228
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 19
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e575c00159b89b4eb54cde3c9635999
+      internalID: 1122907183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_229
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 19
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686f257cbb00355439af92e2140b75c3
+      internalID: -1421917637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_230
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 19
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7072a84d90dd0864e8e42d20e95b74c3
+      internalID: 446020426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_231
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 19
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d86444c002f1e94fbaca97de68c2925
+      internalID: -1277377014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_232
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 19
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d809bfcc61bccb4e8b2d900a9cadaa2
+      internalID: -545382098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_233
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 19
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0368ef3e03c234681fb62fc525e0aa
+      internalID: 623747047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_234
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d82cf015d05b334b8e0417e5180ea54
+      internalID: -1432591081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_235
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f25b2ba0414d27478702dc1e4f3e22a
+      internalID: 958969842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_236
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 19
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac33723438505344ea51128304500790
+      internalID: 1204400199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_237
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a27cb756c0feb45982c81366c98ae5
+      internalID: 45881193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_238
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 19
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df9b47982755ae4f9c43872be7ccfe3
+      internalID: 1011961909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Aquatic Enemies_239
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 19
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7364b7b38a1d14986fe21a74120ad4
+      internalID: -43257128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bitesize_Death_1: -1167038645
+      Bitesize_Death_2: 1685387217
+      Bitesize_Death_3: 1682323627
+      Bitesize_Death_4: 1025698970
+      Bitesize_Swim_1: -1585205368
+      Bitesize_Swim_10: 2141190071
+      Bitesize_Swim_11: 1098207425
+      Bitesize_Swim_12: -1043540685
+      Bitesize_Swim_13: 530030858
+      Bitesize_Swim_2: 1007749172
+      Bitesize_Swim_3: 1182401847
+      Bitesize_Swim_4: -1442124596
+      Bitesize_Swim_5: 1393365624
+      Bitesize_Swim_6: -595058192
+      Bitesize_Swim_7: 475394392
+      Bitesize_Swim_8: 1579736914
+      Bitesize_Swim_9: -1974072190
+      Bitesize_Turn_1: -1146145823
+      Bitesize_Turn_2: -505821161
+      Bitesize_Turn_3: -526879671
+      Bitesize_Turn_4: 1098118485
+      ChompsJr_Death_1: 1373027121
+      ChompsJr_Death_2: -1196286985
+      ChompsJr_Death_3: 678104381
+      ChompsJr_Death_4: -1614985541
+      ChompsJr_Swim_1: -1449869034
+      ChompsJr_Swim_10: 819571922
+      ChompsJr_Swim_11: -1096516398
+      ChompsJr_Swim_12: 736627132
+      ChompsJr_Swim_13: -989675555
+      ChompsJr_Swim_14: 64756145
+      ChompsJr_Swim_15: -2145598493
+      ChompsJr_Swim_16: -1982504652
+      ChompsJr_Swim_2: -1469501864
+      ChompsJr_Swim_3: -1037146490
+      ChompsJr_Swim_4: 1400973342
+      ChompsJr_Swim_5: 85090645
+      ChompsJr_Swim_6: -594605956
+      ChompsJr_Swim_7: 711516708
+      ChompsJr_Swim_8: 452065319
+      ChompsJr_Swim_9: -1017264853
+      ChompsJr_Turn_1: -1193625656
+      ChompsJr_Turn_2: 1604123428
+      ChompsJr_Turn_3: -935271416
+      ChompsJr_Turn_4: -1512042866
+      ChompsJr_Turn_5: 1793198025
+      ChompsJr_Turn_6: -886383230
+      ChompsJr_Turn_7: -1987396966
+      ChompsJr_Turn_8: -693272250
+      ChompsJr_Turn_9: 1788284996
+      Chomps_Death_1: 1562770414
+      Chomps_Death_2: -539068231
+      Chomps_Death_3: -1031595413
+      Chomps_Death_4: 929457311
+      Chomps_Death_5: 847515651
+      Chomps_Death_6: 2024892510
+      Chomps_Swim_1: 707454093
+      Chomps_Swim_10: 1302532931
+      Chomps_Swim_11: -2040655230
+      Chomps_Swim_12: -418942716
+      Chomps_Swim_13: 1351403355
+      Chomps_Swim_14: -98162087
+      Chomps_Swim_15: 746235013
+      Chomps_Swim_16: 301771893
+      Chomps_Swim_2: 1739198220
+      Chomps_Swim_3: 2125579286
+      Chomps_Swim_4: 1834279384
+      Chomps_Swim_5: -1748393431
+      Chomps_Swim_6: -913109194
+      Chomps_Swim_7: -614616099
+      Chomps_Swim_8: 524522320
+      Chomps_Swim_9: 1539031560
+      Chomps_Turn_1: 891000575
+      Chomps_Turn_2: 389459086
+      Chomps_Turn_3: -460804755
+      Chomps_Turn_4: 1060710592
+      Chomps_Turn_5: -1970964559
+      Chomps_Turn_6: -1472476735
+      Chomps_Turn_7: 1275378333
+      Chomps_Turn_8: 2120498001
+      Chomps_Turn_9: -1043189311
+      Clambo_Fire_1: -535038535
+      Clambo_Fire_10: 1493706085
+      Clambo_Fire_11: 273705414
+      Clambo_Fire_2: -1350478167
+      Clambo_Fire_3: -797505436
+      Clambo_Fire_4: -648739859
+      Clambo_Fire_5: 1047634761
+      Clambo_Fire_6: 825512070
+      Clambo_Fire_7: 59353677
+      Clambo_Fire_8: -1858148832
+      Clambo_Fire_9: -1438216410
+      Croctopus_Swim_1: 1665285564
+      Croctopus_Swim_10: 1477211769
+      Croctopus_Swim_11: -1244027280
+      Croctopus_Swim_12: -1053973473
+      Croctopus_Swim_13: -1351909452
+      Croctopus_Swim_14: -1982768677
+      Croctopus_Swim_2: -1159438546
+      Croctopus_Swim_3: -1181926643
+      Croctopus_Swim_4: -1105583650
+      Croctopus_Swim_5: -314221937
+      Croctopus_Swim_6: -654644720
+      Croctopus_Swim_7: 1987706170
+      Croctopus_Swim_8: 279234048
+      Croctopus_Swim_9: 1468475146
+      SNES - Donkey Kong Country - Aquatic Enemies_100: -1901603302
+      SNES - Donkey Kong Country - Aquatic Enemies_101: -1355611004
+      SNES - Donkey Kong Country - Aquatic Enemies_102: -36056419
+      SNES - Donkey Kong Country - Aquatic Enemies_103: 1857104349
+      SNES - Donkey Kong Country - Aquatic Enemies_104: -161624406
+      SNES - Donkey Kong Country - Aquatic Enemies_105: -1011519406
+      SNES - Donkey Kong Country - Aquatic Enemies_106: -208106909
+      SNES - Donkey Kong Country - Aquatic Enemies_107: -1470386422
+      SNES - Donkey Kong Country - Aquatic Enemies_108: 1409253662
+      SNES - Donkey Kong Country - Aquatic Enemies_109: -388845557
+      SNES - Donkey Kong Country - Aquatic Enemies_110: 2117632825
+      SNES - Donkey Kong Country - Aquatic Enemies_111: -327404124
+      SNES - Donkey Kong Country - Aquatic Enemies_112: 732734863
+      SNES - Donkey Kong Country - Aquatic Enemies_113: -2140094872
+      SNES - Donkey Kong Country - Aquatic Enemies_114: -952993460
+      SNES - Donkey Kong Country - Aquatic Enemies_115: -2121999528
+      SNES - Donkey Kong Country - Aquatic Enemies_116: -1301648050
+      SNES - Donkey Kong Country - Aquatic Enemies_117: 1632465294
+      SNES - Donkey Kong Country - Aquatic Enemies_118: -1320996849
+      SNES - Donkey Kong Country - Aquatic Enemies_119: 2128924621
+      SNES - Donkey Kong Country - Aquatic Enemies_120: -1087484504
+      SNES - Donkey Kong Country - Aquatic Enemies_121: -1296463579
+      SNES - Donkey Kong Country - Aquatic Enemies_122: 1197243102
+      SNES - Donkey Kong Country - Aquatic Enemies_137: -1344748195
+      SNES - Donkey Kong Country - Aquatic Enemies_138: 1692923189
+      SNES - Donkey Kong Country - Aquatic Enemies_139: 703544491
+      SNES - Donkey Kong Country - Aquatic Enemies_140: 280241830
+      SNES - Donkey Kong Country - Aquatic Enemies_141: -1757301281
+      SNES - Donkey Kong Country - Aquatic Enemies_142: -1097315626
+      SNES - Donkey Kong Country - Aquatic Enemies_143: 1711125608
+      SNES - Donkey Kong Country - Aquatic Enemies_144: 71475703
+      SNES - Donkey Kong Country - Aquatic Enemies_145: -1966286717
+      SNES - Donkey Kong Country - Aquatic Enemies_146: -231151226
+      SNES - Donkey Kong Country - Aquatic Enemies_147: 1066230601
+      SNES - Donkey Kong Country - Aquatic Enemies_148: -1943345493
+      SNES - Donkey Kong Country - Aquatic Enemies_149: -1033273570
+      SNES - Donkey Kong Country - Aquatic Enemies_150: 378290655
+      SNES - Donkey Kong Country - Aquatic Enemies_151: 1888506560
+      SNES - Donkey Kong Country - Aquatic Enemies_152: 1458818558
+      SNES - Donkey Kong Country - Aquatic Enemies_153: 369359990
+      SNES - Donkey Kong Country - Aquatic Enemies_154: -1726895867
+      SNES - Donkey Kong Country - Aquatic Enemies_155: 790793326
+      SNES - Donkey Kong Country - Aquatic Enemies_156: 721668646
+      SNES - Donkey Kong Country - Aquatic Enemies_157: -160267416
+      SNES - Donkey Kong Country - Aquatic Enemies_158: 1933989088
+      SNES - Donkey Kong Country - Aquatic Enemies_159: 2088919325
+      SNES - Donkey Kong Country - Aquatic Enemies_160: -1819546707
+      SNES - Donkey Kong Country - Aquatic Enemies_161: -2091820
+      SNES - Donkey Kong Country - Aquatic Enemies_162: 1642122267
+      SNES - Donkey Kong Country - Aquatic Enemies_163: -2014760917
+      SNES - Donkey Kong Country - Aquatic Enemies_164: 1749232120
+      SNES - Donkey Kong Country - Aquatic Enemies_165: -965029543
+      SNES - Donkey Kong Country - Aquatic Enemies_166: 347575277
+      SNES - Donkey Kong Country - Aquatic Enemies_167: -648801080
+      SNES - Donkey Kong Country - Aquatic Enemies_168: -2048056810
+      SNES - Donkey Kong Country - Aquatic Enemies_169: 1051123831
+      SNES - Donkey Kong Country - Aquatic Enemies_170: -259240286
+      SNES - Donkey Kong Country - Aquatic Enemies_171: -1738157424
+      SNES - Donkey Kong Country - Aquatic Enemies_172: 610050048
+      SNES - Donkey Kong Country - Aquatic Enemies_173: 1095885889
+      SNES - Donkey Kong Country - Aquatic Enemies_174: -122776262
+      SNES - Donkey Kong Country - Aquatic Enemies_175: -497495613
+      SNES - Donkey Kong Country - Aquatic Enemies_187: -314257229
+      SNES - Donkey Kong Country - Aquatic Enemies_188: -1346857921
+      SNES - Donkey Kong Country - Aquatic Enemies_189: -1075954076
+      SNES - Donkey Kong Country - Aquatic Enemies_190: 827293913
+      SNES - Donkey Kong Country - Aquatic Enemies_191: 2108124210
+      SNES - Donkey Kong Country - Aquatic Enemies_192: 482202081
+      SNES - Donkey Kong Country - Aquatic Enemies_193: 1559621595
+      SNES - Donkey Kong Country - Aquatic Enemies_194: 73519631
+      SNES - Donkey Kong Country - Aquatic Enemies_195: -1083825446
+      SNES - Donkey Kong Country - Aquatic Enemies_196: 320125531
+      SNES - Donkey Kong Country - Aquatic Enemies_197: 1250984271
+      SNES - Donkey Kong Country - Aquatic Enemies_198: 395852803
+      SNES - Donkey Kong Country - Aquatic Enemies_199: -752771792
+      SNES - Donkey Kong Country - Aquatic Enemies_200: 2448434
+      SNES - Donkey Kong Country - Aquatic Enemies_201: 1119349807
+      SNES - Donkey Kong Country - Aquatic Enemies_202: 1541362182
+      SNES - Donkey Kong Country - Aquatic Enemies_203: -823940924
+      SNES - Donkey Kong Country - Aquatic Enemies_204: -1757967059
+      SNES - Donkey Kong Country - Aquatic Enemies_205: 532185463
+      SNES - Donkey Kong Country - Aquatic Enemies_206: -186310270
+      SNES - Donkey Kong Country - Aquatic Enemies_207: -447851961
+      SNES - Donkey Kong Country - Aquatic Enemies_208: -1772789927
+      SNES - Donkey Kong Country - Aquatic Enemies_209: -2058778769
+      SNES - Donkey Kong Country - Aquatic Enemies_210: -269864607
+      SNES - Donkey Kong Country - Aquatic Enemies_211: -501165100
+      SNES - Donkey Kong Country - Aquatic Enemies_212: -1193860834
+      SNES - Donkey Kong Country - Aquatic Enemies_213: -1576532152
+      SNES - Donkey Kong Country - Aquatic Enemies_214: -1123859095
+      SNES - Donkey Kong Country - Aquatic Enemies_215: 1811214762
+      SNES - Donkey Kong Country - Aquatic Enemies_216: 1118407528
+      SNES - Donkey Kong Country - Aquatic Enemies_217: 1242570633
+      SNES - Donkey Kong Country - Aquatic Enemies_218: -1362531888
+      SNES - Donkey Kong Country - Aquatic Enemies_219: -362128374
+      SNES - Donkey Kong Country - Aquatic Enemies_220: 1571801072
+      SNES - Donkey Kong Country - Aquatic Enemies_221: -944617744
+      SNES - Donkey Kong Country - Aquatic Enemies_222: -2014562237
+      SNES - Donkey Kong Country - Aquatic Enemies_223: 1000411721
+      SNES - Donkey Kong Country - Aquatic Enemies_224: 1244919380
+      SNES - Donkey Kong Country - Aquatic Enemies_225: 1775026567
+      SNES - Donkey Kong Country - Aquatic Enemies_226: -684330171
+      SNES - Donkey Kong Country - Aquatic Enemies_227: -427282247
+      SNES - Donkey Kong Country - Aquatic Enemies_228: 1122907183
+      SNES - Donkey Kong Country - Aquatic Enemies_229: -1421917637
+      SNES - Donkey Kong Country - Aquatic Enemies_230: 446020426
+      SNES - Donkey Kong Country - Aquatic Enemies_231: -1277377014
+      SNES - Donkey Kong Country - Aquatic Enemies_232: -545382098
+      SNES - Donkey Kong Country - Aquatic Enemies_233: 623747047
+      SNES - Donkey Kong Country - Aquatic Enemies_234: -1432591081
+      SNES - Donkey Kong Country - Aquatic Enemies_235: 958969842
+      SNES - Donkey Kong Country - Aquatic Enemies_236: 1204400199
+      SNES - Donkey Kong Country - Aquatic Enemies_237: 45881193
+      SNES - Donkey Kong Country - Aquatic Enemies_238: 1011961909
+      SNES - Donkey Kong Country - Aquatic Enemies_239: -43257128
+      SNES - Donkey Kong Country - Aquatic Enemies_81: -661596142
+      SNES - Donkey Kong Country - Aquatic Enemies_82: -2038803855
+      SNES - Donkey Kong Country - Aquatic Enemies_83: 1637796631
+      SNES - Donkey Kong Country - Aquatic Enemies_84: 1233445580
+      SNES - Donkey Kong Country - Aquatic Enemies_85: 631495682
+      SNES - Donkey Kong Country - Aquatic Enemies_86: -1521085666
+      SNES - Donkey Kong Country - Aquatic Enemies_87: 488582002
+      SNES - Donkey Kong Country - Aquatic Enemies_88: -457502517
+      SNES - Donkey Kong Country - Aquatic Enemies_89: -2077195746
+      SNES - Donkey Kong Country - Aquatic Enemies_90: -2067202387
+      SNES - Donkey Kong Country - Aquatic Enemies_91: -184636890
+      SNES - Donkey Kong Country - Aquatic Enemies_92: 624384185
+      SNES - Donkey Kong Country - Aquatic Enemies_93: 1921579655
+      SNES - Donkey Kong Country - Aquatic Enemies_94: 167354649
+      SNES - Donkey Kong Country - Aquatic Enemies_95: 1619188430
+      SNES - Donkey Kong Country - Aquatic Enemies_96: -987435754
+      SNES - Donkey Kong Country - Aquatic Enemies_97: 1226400901
+      SNES - Donkey Kong Country - Aquatic Enemies_98: -1253852818
+      SNES - Donkey Kong Country - Aquatic Enemies_99: -235022167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

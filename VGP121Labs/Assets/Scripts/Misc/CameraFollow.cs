@@ -6,10 +6,10 @@ public class CameraFollow : MonoBehaviour
 {
     public Transform player;
 
-    public float minXClamp = 0.06f;
-    public float maxXClamp = 84.48f;
-    public float minYClamp = 0.39f;
-    public float maxYClamp = 72.02f;
+    public float minXClamp = 0.0f;
+    public float maxXClamp = 84.6f;
+    public float minYClamp = 0.0f;
+    public float maxYClamp = 71.5f;
 
     //This function always runs after fixed update - unity specifies that this is where camera movement should happen
     private void LateUpdate()
