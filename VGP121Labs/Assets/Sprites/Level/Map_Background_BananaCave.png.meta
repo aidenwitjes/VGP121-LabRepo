@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cbf32f0bc82f11d428eeba66ad8768d5
+guid: 60a3ae9079a8dee4a907040a62518a30
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -110,22 +110,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Level
+      name: Background
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2048
-        height: 1632
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 153
+        width: 256
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa637fbec9b3ccb4e9c59ea70461bf21
-      internalID: 1066039576
+      spriteID: 10b3a51391a1a0742ab4708fcbae7a46
+      internalID: -705172398
       vertices: []
       indices: 
       edges: []
@@ -141,8 +141,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Level: 1066039576
-      Map_ClamCity_0: -1409543644
+      Background: -705172398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

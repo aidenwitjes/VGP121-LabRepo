@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: cbf32f0bc82f11d428eeba66ad8768d5
+guid: c20875b37fe3a6647b2515d1b2531d5e
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Level
+      name: BossLevel
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2048
-        height: 1632
+        y: 288
+        width: 512
+        height: 224
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d4e60ff692744cb96d1f828b711c4
+      internalID: 211821610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foreground_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 77
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +145,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa637fbec9b3ccb4e9c59ea70461bf21
-      internalID: 1066039576
+      spriteID: fbfbf9de36f7c9849b65aafdc3b3d250
+      internalID: 2079944489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foreground_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 31
+        width: 76
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b40f00d196f8da48b28b52394451c6c
+      internalID: -933617450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 255
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b33f19189db9f4fa8aac9af9c4766c
+      internalID: 1766871178
       vertices: []
       indices: 
       edges: []
@@ -141,8 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Level: 1066039576
-      Map_ClamCity_0: -1409543644
+      Background_1: 1766871178
+      BossLevel: 211821610
+      Foreground_1: 2079944489
+      Foreground_2: -933617450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
