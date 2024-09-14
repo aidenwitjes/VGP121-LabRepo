@@ -108,7 +108,1225 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: QueenB_Flight_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 67
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc92d7838583f469285eac24c6a661
+      internalID: -715300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Flight_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 200
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4468d71dd1dc4f438df23ce52e37f21
+      internalID: -1415959527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Flight_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 198
+        width: 70
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249a75a4b670531429294f66b0e93d60
+      internalID: 1335620392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Flight_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 193
+        width: 72
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b4ca0e785e704da1be63acbfacb9e
+      internalID: 12023756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Flight_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 194
+        width: 71
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014a3661500326a4e8999abec612d718
+      internalID: 944332223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Flight_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 198
+        width: 70
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae745996cab2b4b9d272dbff570893
+      internalID: -970644366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Flight_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 193
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf6c7cdf130d774b9d3994a128c0f5b
+      internalID: 967069811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Flight_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 191
+        width: 67
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f7aba26184f24e9479cebf82cdad2
+      internalID: -1523028844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 111
+        width: 59
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85413878355a10f4a84cf7a3caf0180d
+      internalID: 251641805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 109
+        width: 57
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feec7636f3430b04d8626bd53f9e26ff
+      internalID: -642646882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 109
+        width: 66
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5a184df783d9749b51ac30c4a76f80
+      internalID: -984284754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 110
+        width: 72
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad8998d15accde40ae1b829caad3c8a
+      internalID: 2136577640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 120
+        width: 63
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f073ebe6fef3a94794cb69e950f42c3
+      internalID: 1408722388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 124
+        width: 64
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd74fa8fe37a9f748b5f5d30ca0a8770
+      internalID: 1732212358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 123
+        width: 64
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306629f1d7b752d49b5be918362de2e5
+      internalID: -1442758324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 119
+        width: 66
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec32f19a71d67fe4a8054aa7daa9e472
+      internalID: -1619939946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 121
+        width: 68
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72128434e9d6c54a9f800976dcae844
+      internalID: -768580713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 122
+        width: 69
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371c2095101880d49853d794e0432d2e
+      internalID: -1121671323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 123
+        width: 70
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2769120d10ab7b4097ef8285c2428b4
+      internalID: -947124351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: QueenB_Injured_12
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 121
+        width: 73
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09b34269ef8e624aa76d9c8946e76ee
+      internalID: 1142222700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a1ecfb6052cd442ac716fb3cd65680
+      internalID: 178427337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd784ef768fa18f42a779e91b2dd950c
+      internalID: -1145842645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_22
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 12
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fd1d7bb91a5684db6b24c37366cc3e
+      internalID: -624503277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 11
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d417c1ca343449049992383af8f10c8a
+      internalID: -1221927568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 10
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a616c362384bc41b60a5051b695cbd
+      internalID: -164617287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 10
+        width: 67
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51887bfb27f891a47a05ebdaa52c3227
+      internalID: 2034738554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 12
+        width: 169
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1746ac75aa199c04fab596032af50950
+      internalID: 311693334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_27
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 24
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf37e0829e6cf9248810238fffc1ddc8
+      internalID: -2027474262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_28
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 16
+        width: 70
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770b118a637591c4cb3637930e5b9293
+      internalID: -1984722175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 22
+        width: 48
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8a795992e03144db37fec4ffb46453
+      internalID: 867267461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_30
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 18
+        width: 79
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07521ff7f2336b840968c8e549cba0a6
+      internalID: 2099725619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_31
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 4
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb78a31011a8284ebe28a842f829886
+      internalID: 583208234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_32
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 4
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb5bd9fab3159645a7b8deb66c76c65
+      internalID: -649816418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_33
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dccc9db0b46c0a418d0f13856721344
+      internalID: 1788674329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_34
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b628932c3a2cad43af8a505a743e710
+      internalID: 766680223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_35
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a9fdf6ee4bfaa408616c81cec91819
+      internalID: 836481103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_36
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 4
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e773811228c044cb60fedd1cba3988
+      internalID: -1366725718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_37
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07f882671a5abd41b31c2486f6e110c
+      internalID: -9968230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_38
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d56100c6654c34187671bad58c508d
+      internalID: -219432922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_39
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 4
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e10a0dc1325f3e42a7fcdadfebd2c75
+      internalID: -204351982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_40
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 4
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b829b04d0240c004e8657c60319572a0
+      internalID: 1784259738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_41
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a51aafd379d5c418dfe2e2198ebd46
+      internalID: 369120641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_42
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 4
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f404f6c8cb6c8164698c8180122fc290
+      internalID: -1764874176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_43
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a24a951622fbe4dbe9196210dd4749
+      internalID: 67069937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_44
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 4
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3779bb8ae721b044ba592a8519105e9
+      internalID: 409185801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_45
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 4
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6d7299cd32af498ef4c3eecf03673
+      internalID: -885945466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_46
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b264085d81664304688856aca8f8a180
+      internalID: 2102926307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_47
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 4
+        width: 9
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91f08639fdaf13469a65458b8a4f7d7
+      internalID: 358688019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_48
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2
+        width: 10
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c64348909d66343a66e8eb79fcfc88
+      internalID: 881799171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_49
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 4
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf4c24886caacf4ea2ad9a6a20678b9
+      internalID: -1022594022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_50
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 4
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f97d1e59463349b1dfbad49f14725
+      internalID: 1821519510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_51
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2
+        width: 9
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d66160b652b3fc4c8b6e6908abd6704
+      internalID: 695838214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_52
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c260648204248a34ebd0499e753f23e9
+      internalID: -1833352419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_53
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 4
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1107bccd6c5744468d1fd88ff1a1e22
+      internalID: -684725789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_54
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 2
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603794664bb414c49af7361ab4d34869
+      internalID: 521187220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c692fda97364245a870633e2278caa
+      internalID: 1853723196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_56
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 4
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a2e563365e98479bb7a8768b7199a
+      internalID: 1882426435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Donkey Kong Country - Queen B_57
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba93797e48ebbb42b35b515bb62404b
+      internalID: -1461196098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +1337,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      QueenB_Flight_1: -715300526
+      QueenB_Flight_2: -1415959527
+      QueenB_Flight_3: 1335620392
+      QueenB_Flight_4: 12023756
+      QueenB_Flight_5: 944332223
+      QueenB_Flight_6: -970644366
+      QueenB_Flight_7: 967069811
+      QueenB_Flight_8: -1523028844
+      QueenB_Injured_1: 251641805
+      QueenB_Injured_10: -1121671323
+      QueenB_Injured_11: -947124351
+      QueenB_Injured_12: 1142222700
+      QueenB_Injured_2: -642646882
+      QueenB_Injured_3: -984284754
+      QueenB_Injured_4: 2136577640
+      QueenB_Injured_5: 1408722388
+      QueenB_Injured_6: 1732212358
+      QueenB_Injured_7: -1442758324
+      QueenB_Injured_8: -1619939946
+      QueenB_Injured_9: -768580713
+      SNES - Donkey Kong Country - Queen B_20: 178427337
+      SNES - Donkey Kong Country - Queen B_21: -1145842645
+      SNES - Donkey Kong Country - Queen B_22: -624503277
+      SNES - Donkey Kong Country - Queen B_23: -1221927568
+      SNES - Donkey Kong Country - Queen B_24: -164617287
+      SNES - Donkey Kong Country - Queen B_25: 2034738554
+      SNES - Donkey Kong Country - Queen B_26: 311693334
+      SNES - Donkey Kong Country - Queen B_27: -2027474262
+      SNES - Donkey Kong Country - Queen B_28: -1984722175
+      SNES - Donkey Kong Country - Queen B_29: 867267461
+      SNES - Donkey Kong Country - Queen B_30: 2099725619
+      SNES - Donkey Kong Country - Queen B_31: 583208234
+      SNES - Donkey Kong Country - Queen B_32: -649816418
+      SNES - Donkey Kong Country - Queen B_33: 1788674329
+      SNES - Donkey Kong Country - Queen B_34: 766680223
+      SNES - Donkey Kong Country - Queen B_35: 836481103
+      SNES - Donkey Kong Country - Queen B_36: -1366725718
+      SNES - Donkey Kong Country - Queen B_37: -9968230
+      SNES - Donkey Kong Country - Queen B_38: -219432922
+      SNES - Donkey Kong Country - Queen B_39: -204351982
+      SNES - Donkey Kong Country - Queen B_40: 1784259738
+      SNES - Donkey Kong Country - Queen B_41: 369120641
+      SNES - Donkey Kong Country - Queen B_42: -1764874176
+      SNES - Donkey Kong Country - Queen B_43: 67069937
+      SNES - Donkey Kong Country - Queen B_44: 409185801
+      SNES - Donkey Kong Country - Queen B_45: -885945466
+      SNES - Donkey Kong Country - Queen B_46: 2102926307
+      SNES - Donkey Kong Country - Queen B_47: 358688019
+      SNES - Donkey Kong Country - Queen B_48: 881799171
+      SNES - Donkey Kong Country - Queen B_49: -1022594022
+      SNES - Donkey Kong Country - Queen B_50: 1821519510
+      SNES - Donkey Kong Country - Queen B_51: 695838214
+      SNES - Donkey Kong Country - Queen B_52: -1833352419
+      SNES - Donkey Kong Country - Queen B_53: -684725789
+      SNES - Donkey Kong Country - Queen B_54: 521187220
+      SNES - Donkey Kong Country - Queen B_55: 1853723196
+      SNES - Donkey Kong Country - Queen B_56: 1882426435
+      SNES - Donkey Kong Country - Queen B_57: -1461196098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
