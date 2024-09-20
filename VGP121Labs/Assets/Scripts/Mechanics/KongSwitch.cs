@@ -36,7 +36,6 @@ public class KongSwitch : MonoBehaviour
         // Switch Kongs when the player presses the switch button
         if (Input.GetButtonDown("Fire1") && !isSwitching)
         {
-            Debug.Log("Switch button pressed.");
             StartCoroutine(SwimAndSwitch());
         }
 
@@ -52,13 +51,21 @@ public class KongSwitch : MonoBehaviour
         // Make the inactive Kong follow the delayed positions
         if (movementHistory.Count > 0)
         {
-            inactiveKong.transform.position = movementHistory.Peek() + inactiveZOffset;
+            Vector3 targetPosition = movementHistory.Peek() + inactiveZOffset;
+            inactiveKong.transform.position = targetPosition;
+
+            // Determine direction based on the target position
+            if (movementHistory.Count > 1)
+            {
+                Vector3 previousPosition = movementHistory.ToArray()[movementHistory.Count - 2];
+                float direction = targetPosition.x - previousPosition.x;
+                inactiveKong.GetComponent<SpriteRenderer>().flipX = (direction > 0);
+            }
         }
     }
 
     IEnumerator SwimAndSwitch()
     {
-        Debug.Log("Started switching Kongs.");
         isSwitching = true;
 
         // Move inactive Kong to active Kong's position before switching
@@ -69,11 +76,10 @@ public class KongSwitch : MonoBehaviour
                 activeKong.transform.position,
                 swimSpeed * Time.deltaTime
             );
-            Debug.Log("Moving inactive Kong to active Kong.");
             yield return null; // Wait for the next frame
         }
 
-        // Once they are close enough, swap the active and inactive Kongs
+        // Swap the active and inactive Kongs
         GameObject temp = activeKong;
         activeKong = inactiveKong;
         inactiveKong = temp;
@@ -86,15 +92,13 @@ public class KongSwitch : MonoBehaviour
         SetColliderState(inactiveKong, false);
         SetColliderState(activeKong, true);
 
-        Debug.Log("Switching Kongs completed.");
-
         // Update the camera target to the new active Kong
-        cameraFollow.SetTarget(activeKong.transform);
+        //cameraFollow.SetTarget(activeKong.transform);
 
         // Clear movement history to prevent instant jumps after the switch
         movementHistory.Clear();
 
-        yield return new WaitForSeconds(0.1f);  // Optional: Short delay before allowing another switch
+        yield return new WaitForSeconds(3f);  // Optional: Short delay before allowing another switch
 
         isSwitching = false;
     }
@@ -105,7 +109,6 @@ public class KongSwitch : MonoBehaviour
         if (controller != null)
         {
             controller.enabled = state; // Enable or disable the controller
-            Debug.Log(kong.name + " PlayerController set to " + state);
         }
     }
 
@@ -115,7 +118,6 @@ public class KongSwitch : MonoBehaviour
         if (collider != null)
         {
             collider.enabled = state; // Enable or disable the collider
-            Debug.Log(kong.name + " Collider set to " + state);
         }
     }
 }

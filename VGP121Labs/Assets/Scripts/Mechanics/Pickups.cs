@@ -25,10 +25,10 @@ public class Pickup : MonoBehaviour
             switch (type)
             {
                 case PickupType.Banana:
-                    pc.score++;
+                    GameManager.Instance.score++;
                     break;
                 case PickupType.BananaBunch:
-                    pc.score += 5;
+                    GameManager.Instance.score += 10;
                     break;
                 case PickupType.DKBarrel:
                     break;
