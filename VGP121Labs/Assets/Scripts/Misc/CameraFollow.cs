@@ -11,14 +11,24 @@ public class CameraFollow : MonoBehaviour
     public float minYClamp = 0.0f;
     public float maxYClamp = 71.5f;
 
-    //This function always runs after fixed update - unity specifies that this is where camera movement should happen
+    // This function always runs after fixed update - unity specifies that this is where camera movement should happen
     private void LateUpdate()
     {
-        Vector3 cameraPos = transform.position;
+        if (player != null) // Check if there's an active player
+        {
+            Vector3 cameraPos = transform.position;
 
-        cameraPos.x = Mathf.Clamp(player.transform.position.x, minXClamp, maxXClamp);
-        cameraPos.y = Mathf.Clamp(player.transform.position.y, minYClamp, maxYClamp);
+            cameraPos.x = Mathf.Clamp(player.position.x, minXClamp, maxXClamp);
+            cameraPos.y = Mathf.Clamp(player.position.y, minYClamp, maxYClamp);
 
-        transform.position = cameraPos;
+            transform.position = cameraPos;
+        }
+    }
+
+    // Method to set the target player
+    public void SetTarget(Transform newPlayer)
+    {
+        player = newPlayer;
+        Debug.Log($"Camera target set to {player.name}");
     }
 }

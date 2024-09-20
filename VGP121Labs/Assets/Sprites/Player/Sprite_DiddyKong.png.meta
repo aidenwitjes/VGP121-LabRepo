@@ -3995,7 +3995,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_185
+      name: DiddyKong_Swim1
       rect:
         serializedVersion: 2
         x: 4
@@ -4016,7 +4016,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_186
+      name: DiddyKong_Swim2
       rect:
         serializedVersion: 2
         x: 57
@@ -4037,7 +4037,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_187
+      name: DiddyKong_Swim3
       rect:
         serializedVersion: 2
         x: 107
@@ -4058,7 +4058,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_188
+      name: DiddyKong_Swim4
       rect:
         serializedVersion: 2
         x: 160
@@ -4079,11 +4079,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_189
+      name: DiddyKong_Swim5
       rect:
         serializedVersion: 2
         x: 210
-        y: 1232
+        y: 1233
         width: 44
         height: 37
       alignment: 7
@@ -4100,7 +4100,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_190
+      name: DiddyKong_Swim6
       rect:
         serializedVersion: 2
         x: 261
@@ -4121,7 +4121,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_191
+      name: DiddyKong_Swim7
       rect:
         serializedVersion: 2
         x: 313
@@ -4142,7 +4142,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_192
+      name: DiddyKong_Swim8
       rect:
         serializedVersion: 2
         x: 362
@@ -4163,7 +4163,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_193
+      name: DiddyKong_Swim9
       rect:
         serializedVersion: 2
         x: 410
@@ -4184,7 +4184,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_194
+      name: DiddyKong_Swim10
       rect:
         serializedVersion: 2
         x: 460
@@ -4205,7 +4205,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_195
+      name: DiddyKong_Swim11
       rect:
         serializedVersion: 2
         x: 513
@@ -4226,7 +4226,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_196
+      name: DiddyKong_Swim12
       rect:
         serializedVersion: 2
         x: 566
@@ -4247,7 +4247,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_197
+      name: DiddyKong_Swim13
       rect:
         serializedVersion: 2
         x: 619
@@ -4268,7 +4268,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_198
+      name: DiddyKong_Swim14
       rect:
         serializedVersion: 2
         x: 671
@@ -4289,7 +4289,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DiddyKong_199
+      name: DiddyKong_Swim15
       rect:
         serializedVersion: 2
         x: 725
@@ -17046,6 +17046,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      DiddyKong_Swim1: -1095936156
+      DiddyKong_Swim10: 631139364
+      DiddyKong_Swim11: 1146917308
+      DiddyKong_Swim12: -1646360562
+      DiddyKong_Swim13: 872800057
+      DiddyKong_Swim14: -866723778
+      DiddyKong_Swim15: -396970025
+      DiddyKong_Swim2: -366025847
+      DiddyKong_Swim3: 876121887
+      DiddyKong_Swim4: 1352936711
+      DiddyKong_Swim5: -971614155
+      DiddyKong_Swim6: 268799211
+      DiddyKong_Swim7: -1512527843
+      DiddyKong_Swim8: 1622924132
+      DiddyKong_Swim9: -418014698
       Sprite_DiddyKong_0: -1195785469
       Sprite_DiddyKong_1: 1863902985
       Sprite_DiddyKong_10: 56449410
@@ -17142,22 +17157,7 @@ TextureImporter:
       Sprite_DiddyKong_182: -356409581
       Sprite_DiddyKong_183: 1501794475
       Sprite_DiddyKong_184: -1384801924
-      Sprite_DiddyKong_185: -1095936156
-      Sprite_DiddyKong_186: -366025847
-      Sprite_DiddyKong_187: 876121887
-      Sprite_DiddyKong_188: 1352936711
-      Sprite_DiddyKong_189: -971614155
       Sprite_DiddyKong_19: -269021820
-      Sprite_DiddyKong_190: 268799211
-      Sprite_DiddyKong_191: -1512527843
-      Sprite_DiddyKong_192: 1622924132
-      Sprite_DiddyKong_193: -418014698
-      Sprite_DiddyKong_194: 631139364
-      Sprite_DiddyKong_195: 1146917308
-      Sprite_DiddyKong_196: -1646360562
-      Sprite_DiddyKong_197: 872800057
-      Sprite_DiddyKong_198: -866723778
-      Sprite_DiddyKong_199: -396970025
       Sprite_DiddyKong_2: -467622380
       Sprite_DiddyKong_20: 26349855
       Sprite_DiddyKong_200: -232078567
