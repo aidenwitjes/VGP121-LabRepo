@@ -12,6 +12,7 @@ public class KongSwitch : MonoBehaviour
     private GameObject inactiveKong; // The Kong following with a delay
     private bool isSwitching = false;
     [SerializeField] private float followDelay = 0.5f;  // Delay time for the inactive Kong to follow
+    [SerializeField] private float swimSpeed = 2.0f;    // Speed at which inactive Kong swims to active Kong
     [SerializeField] private Vector3 inactiveZOffset = new Vector3(0, 0, 1); // Offset for z-axis positioning
 
     private Queue<Vector3> movementHistory;  // To store the positions for delayed following
@@ -35,7 +36,8 @@ public class KongSwitch : MonoBehaviour
         // Switch Kongs when the player presses the switch button
         if (Input.GetButtonDown("Fire1") && !isSwitching)
         {
-            StartCoroutine(SwitchKongs());
+            Debug.Log("Switch button pressed.");
+            StartCoroutine(SwimAndSwitch());
         }
 
         // Record the active Kong's movement for delayed following
@@ -54,11 +56,24 @@ public class KongSwitch : MonoBehaviour
         }
     }
 
-    IEnumerator SwitchKongs()
+    IEnumerator SwimAndSwitch()
     {
+        Debug.Log("Started switching Kongs.");
         isSwitching = true;
 
-        // Swap the active and inactive Kongs
+        // Move inactive Kong to active Kong's position before switching
+        while (Vector3.Distance(inactiveKong.transform.position, activeKong.transform.position) > 2f)
+        {
+            inactiveKong.transform.position = Vector3.MoveTowards(
+                inactiveKong.transform.position,
+                activeKong.transform.position,
+                swimSpeed * Time.deltaTime
+            );
+            Debug.Log("Moving inactive Kong to active Kong.");
+            yield return null; // Wait for the next frame
+        }
+
+        // Once they are close enough, swap the active and inactive Kongs
         GameObject temp = activeKong;
         activeKong = inactiveKong;
         inactiveKong = temp;
@@ -71,9 +86,10 @@ public class KongSwitch : MonoBehaviour
         SetColliderState(inactiveKong, false);
         SetColliderState(activeKong, true);
 
+        Debug.Log("Switching Kongs completed.");
+
         // Update the camera target to the new active Kong
         cameraFollow.SetTarget(activeKong.transform);
-        Debug.Log($"Switched to {activeKong.name}. Updated camera target.");
 
         // Clear movement history to prevent instant jumps after the switch
         movementHistory.Clear();
@@ -89,6 +105,7 @@ public class KongSwitch : MonoBehaviour
         if (controller != null)
         {
             controller.enabled = state; // Enable or disable the controller
+            Debug.Log(kong.name + " PlayerController set to " + state);
         }
     }
 
@@ -98,6 +115,7 @@ public class KongSwitch : MonoBehaviour
         if (collider != null)
         {
             collider.enabled = state; // Enable or disable the collider
+            Debug.Log(kong.name + " Collider set to " + state);
         }
     }
 }
