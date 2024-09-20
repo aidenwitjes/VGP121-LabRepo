@@ -83,7 +83,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private LayerMask isGroundLayer;
 
     [SerializeField] private float maxSinkVel = -5.0f; //Cap for sinking velocity
-    [SerializeField] private float maxSwimUpVel = 15.0f; //Cap for swimming up velocity
+    [SerializeField] private float maxSwimUpVel = 10.0f; //Cap for swimming up velocity
 
     private Transform groundCheck;
     private bool isGrounded = false;
