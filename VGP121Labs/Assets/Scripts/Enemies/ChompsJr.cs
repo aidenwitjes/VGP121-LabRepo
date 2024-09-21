@@ -6,8 +6,8 @@ public class ChompsJr : Enemy
 {
     Rigidbody2D rb;
     [SerializeField] private float speed;
-    public float amplitude = 2.0f;
-    public float frequency = 5.0f;
+    public float amplitude = 1.0f;
+    public float frequency = 2.0f;
 
     public override void Start()
     {
@@ -15,7 +15,7 @@ public class ChompsJr : Enemy
         rb = GetComponent<Rigidbody2D>();
         rb.sleepMode = RigidbodySleepMode2D.NeverSleep;
 
-        if (speed <= 0) speed = 3.0f;
+        if (speed <= 0) speed = 10.0f;
     }
 
     void Update()
