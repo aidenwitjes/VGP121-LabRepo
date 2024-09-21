@@ -146,7 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   swimSpeed: 5
-  maxSwimSpeed: 10
+  maxSwimSpeed: 7.5
   landSpeed: 7
   jumpForce: 5
   groundCheckRadius: 0.02

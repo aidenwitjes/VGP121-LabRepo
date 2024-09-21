@@ -130,6 +130,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: TitleGraphic
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 152
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56b0ab0d58b76e4cbfc0990377fb747
+      internalID: 331567680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Background_BananaCave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 369
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f59412978de88499d9ce689a3f534d
+      internalID: -1986387178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -142,6 +184,8 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Background: -705172398
+      Map_Background_BananaCave_0: -1986387178
+      TitleGraphic: 331567680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

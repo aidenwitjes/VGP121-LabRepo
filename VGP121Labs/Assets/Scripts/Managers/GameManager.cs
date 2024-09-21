@@ -113,7 +113,7 @@ public class GameManager : MonoBehaviour
 
         if (!currentMenuController) return;
 
-        if (Input.GetKeyDown(KeyCode.Escape) && SceneManager.GetActiveScene().name == "Level")
+        if (Input.GetKeyDown(KeyCode.Escape) && (SceneManager.GetActiveScene().name == "Level 1") || (SceneManager.GetActiveScene().name == "BossLevel"))
         {
             if (isPaused)
             {
@@ -123,7 +123,7 @@ public class GameManager : MonoBehaviour
             {
                 PauseGame();
             }
-            audioSource.PlayOneShot(pauseClip);
+            //audioSource.PlayOneShot(pauseClip);
         }
     }
 
@@ -149,7 +149,7 @@ public class GameManager : MonoBehaviour
 
     void GameOver()
     {
-        if (SceneManager.GetActiveScene().name == "Level")
+        if ((SceneManager.GetActiveScene().name == "Level 1") || (SceneManager.GetActiveScene().name == "BossLevel"))
         {
             SceneManager.LoadScene("GameOver");
             Debug.Log("Out of lives. Game Over!");

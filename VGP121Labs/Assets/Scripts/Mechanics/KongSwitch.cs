@@ -34,7 +34,7 @@ public class KongSwitch : MonoBehaviour
     void Update()
     {
         // Switch Kongs when the player presses the switch button
-        if (Input.GetButtonDown("Fire1") && !isSwitching)
+        if (Input.GetButtonDown("Shift") && !isSwitching)
         {
             StartCoroutine(SwimAndSwitch());
         }

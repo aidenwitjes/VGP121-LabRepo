@@ -10,8 +10,8 @@ public class GameOverMenu : BaseMenu
     {
         base.InitState(ctx);
         state = MenuController.MenuStates.GameOver;
-        continueButton.onClick.AddListener(() => GameManager.Instance.LoadScene("Level"));
-        mainMenuButton.onClick.AddListener(() => GameManager.Instance.LoadScene("Title"));
+        continueButton.onClick.AddListener(() => GameManager.Instance.LoadScene("Level 1"));
+        mainMenuButton.onClick.AddListener(() => GameManager.Instance.LoadScene("TitleScreen"));
         quitButton.onClick.AddListener(QuitGame);
     }
 }

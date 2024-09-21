@@ -26,7 +26,7 @@ public class PauseMenu : BaseMenu
     private void OnMainMenuButtonClicked()
     {
         gameManager.UnpauseGame();
-        GameManager.Instance.LoadScene("Title");
+        GameManager.Instance.LoadScene("TitleScreen");
         Debug.Log("Title Screen");
     }
 }
