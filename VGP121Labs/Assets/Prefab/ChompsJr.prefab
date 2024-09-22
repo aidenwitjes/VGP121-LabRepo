@@ -357,7 +357,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxHealth: 0
-  deathClip: {fileID: 0}
+  deathClip: {fileID: 8300000, guid: cbe6bdb73b383144e8d221b036627937, type: 3}
+  isInvulnerable: 0
   speed: 10
   amplitude: 1
   frequency: 2

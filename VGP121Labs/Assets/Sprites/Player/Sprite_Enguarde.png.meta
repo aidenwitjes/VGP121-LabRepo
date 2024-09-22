@@ -1,0 +1,1381 @@
+fileFormatVersion: 2
+guid: 94ba0d1e8cbcdd144919f26ae4f65eb3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enguarde_Swim_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 143
+        width: 62
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0339b33de4a197a48adfce1810effd7f
+      internalID: 2084472887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Swim_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 60
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1438b76011160b54695f1723b549a86e
+      internalID: -1583714775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Swim_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 145
+        width: 58
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1391b7e525655f141ac8145f4df9accd
+      internalID: 842405390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Swim_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 145
+        width: 56
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef9f44e369b0e458e6fbaddbbbafd1
+      internalID: -304172121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Swim_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 145
+        width: 59
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb12b83ab54cbf246a94302b31dd8f97
+      internalID: 1680892165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Swim_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 145
+        width: 64
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251bcd89f4d48394b817174f0cf4baef
+      internalID: -925186334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Swim_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 144
+        width: 67
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d378101ade5b42beb361d499b52f8
+      internalID: -1592457593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Swim_8
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 143
+        width: 66
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649a85fd92474644e8a5c6658f944eac
+      internalID: -1918598263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 86
+        width: 134
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea780d649892554e87229c40192b4f1
+      internalID: 2101674431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 81
+        width: 58
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e56f111969b0ed4eb0f0fa3a6970614
+      internalID: -1054355445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 81
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef59547753cb01f4495242e27ca0cec2
+      internalID: -1929984512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 80
+        width: 42
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ebd3fb18e21d43880da9470df3308
+      internalID: -1436398547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 86
+        width: 35
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5225a0cea377a74c874de32d56313c9
+      internalID: -843227994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 85
+        width: 72
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68c13bd5ebad344a8df41b85ac01991
+      internalID: -427359834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 84
+        width: 66
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eb83e0ee4d0df479f4ae7ed7833156
+      internalID: -766623409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 84
+        width: 64
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8958ab1ae0865274cbd28ec5f71d8d05
+      internalID: -1790754331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 112
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d52b4802dddcb47bbe14efee4c4ecb
+      internalID: 1251278506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_17
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 112
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463f19f9ffd263a49a476bd9b4ef7b78
+      internalID: -123601851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 112
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed156af026e378f4980d8e49d133388e
+      internalID: 10837284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4575c769752119e4d9e7aa74295cbb19
+      internalID: 1491518832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 112
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f296ec3b14645ac4baf80ddd7b70f029
+      internalID: -1842940310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_21
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 112
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c289d27e7e5d9be419c2fac5307130c5
+      internalID: -549642571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_22
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 112
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f46f4a4d10b9e4d854c021068ffc17
+      internalID: -200440336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_23
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 112
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c217dbad2febde848a29cfdb4a653823
+      internalID: 231370466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 99
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b563c19c6d69c114eabee08d200b61cd
+      internalID: -1513768739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 99
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d55b2a41c898e642bd1529ae8ff07d4
+      internalID: -144047224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_26
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 99
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a3627262aebd448595d278664f001
+      internalID: -220184452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_27
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 99
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b27ca976bfd5498be04c5768f4d15
+      internalID: -2063180214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 99
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3077a907f91a72945804c2037ea14565
+      internalID: 1622054622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 99
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c361adb2f89dc7429182c8ebecd49d5
+      internalID: 1232483795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_30
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 99
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeac75df3bfea94e9c4459bfa5af95b
+      internalID: -1771295989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_31
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 99
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8206037b763ad6c4bb69cf2584c61f63
+      internalID: 967823088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_32
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 99
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8daa35156302246bf717b22b66ba4f
+      internalID: -1146044625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_33
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 86
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e034bfd3bfe25ec4eb6a4dea8ce2a305
+      internalID: 1271760547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 86
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916d1b9ce6643b4594234ddb614fcf2
+      internalID: -992243716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_35
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 86
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1a56c06dd25fc41a12bae02f701a70
+      internalID: 1090415440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 86
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fae8af1d5cd6745b4328b11ec7b950
+      internalID: -479655129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 86
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e7d09c3e1e824990d937de4a9c5d2
+      internalID: 1463870186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Turn_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 23
+        width: 51
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db7a874e36b5c84184a2380744dd867
+      internalID: -1717534074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Turn_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1b3f5d6dd99da458662f86bab6496b
+      internalID: 123428090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Turn_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 22
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a943124055372749ab778d450154ad9
+      internalID: -1687056959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enguarde_Turn_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 20
+        width: 38
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8c973aeff40ed439ec30bd465b061e
+      internalID: 93319714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_42
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 25
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24a3071f50874940a470058e9bf45b0
+      internalID: 1233811150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_43
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 24
+        width: 56
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8408de89bc23c4bbb6c2a12fdad0e0
+      internalID: -1662938298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 23
+        width: 40
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa758f9235b9984ca11f9ebda4b72cf
+      internalID: -1174404373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 9
+        width: 94
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59d85f730e2bc64292dfcee08aa07c3
+      internalID: -1043595162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_46
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 23
+        width: 42
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e424c40b7fcb5a4392c037fa4cc9826
+      internalID: -234150709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_47
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 28
+        width: 29
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b02cfc53f7fc439b700d1f6cf7ca9
+      internalID: 721975599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_48
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 20
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e27579b992e046b61673da8cf8ab7
+      internalID: -1968694299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_49
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 18
+        width: 40
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c30abc60d20b5047938809037b130d4
+      internalID: -1493919518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283bb699b65b0f441ac303f2e55c133d
+      internalID: -449963982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8743047db000fec45bb91e925bd41c0b
+      internalID: -1239938705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 6
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136a26b5d576ac7449861d5b7dfb2af1
+      internalID: -431764749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b11b00b35fed604d9a95b9c1099dc6c
+      internalID: -886791317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_54
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 6
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef6e38218bbc644a952c802e9b8913
+      internalID: -97098226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 6
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043214c49dbe0c45953d6bbb384d93b
+      internalID: -1787732443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite_Enguarde_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 6
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9708de02bcd2d4847aec7029ae4ab862
+      internalID: 1358839063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enguarde_Dash_1: -1054355445
+      Enguarde_Dash_2: -1929984512
+      Enguarde_Dash_3: -1436398547
+      Enguarde_Dash_4: -843227994
+      Enguarde_Dash_5: -427359834
+      Enguarde_Dash_6: -766623409
+      Enguarde_Dash_7: -1790754331
+      Enguarde_Swim_1: 2084472887
+      Enguarde_Swim_2: -1583714775
+      Enguarde_Swim_3: 842405390
+      Enguarde_Swim_4: -304172121
+      Enguarde_Swim_5: 1680892165
+      Enguarde_Swim_6: -925186334
+      Enguarde_Swim_7: -1592457593
+      Enguarde_Swim_8: -1918598263
+      Enguarde_Turn_1: -1717534074
+      Enguarde_Turn_2: 123428090
+      Enguarde_Turn_3: -1687056959
+      Enguarde_Turn_4: 93319714
+      Sprite_Enguarde_16: 1251278506
+      Sprite_Enguarde_17: -123601851
+      Sprite_Enguarde_18: 10837284
+      Sprite_Enguarde_19: 1491518832
+      Sprite_Enguarde_20: -1842940310
+      Sprite_Enguarde_21: -549642571
+      Sprite_Enguarde_22: -200440336
+      Sprite_Enguarde_23: 231370466
+      Sprite_Enguarde_24: -1513768739
+      Sprite_Enguarde_25: -144047224
+      Sprite_Enguarde_26: -220184452
+      Sprite_Enguarde_27: -2063180214
+      Sprite_Enguarde_28: 1622054622
+      Sprite_Enguarde_29: 1232483795
+      Sprite_Enguarde_30: -1771295989
+      Sprite_Enguarde_31: 967823088
+      Sprite_Enguarde_32: -1146044625
+      Sprite_Enguarde_33: 1271760547
+      Sprite_Enguarde_34: -992243716
+      Sprite_Enguarde_35: 1090415440
+      Sprite_Enguarde_36: -479655129
+      Sprite_Enguarde_37: 1463870186
+      Sprite_Enguarde_42: 1233811150
+      Sprite_Enguarde_43: -1662938298
+      Sprite_Enguarde_44: -1174404373
+      Sprite_Enguarde_45: -1043595162
+      Sprite_Enguarde_46: -234150709
+      Sprite_Enguarde_47: 721975599
+      Sprite_Enguarde_48: -1968694299
+      Sprite_Enguarde_49: -1493919518
+      Sprite_Enguarde_50: -449963982
+      Sprite_Enguarde_51: -1239938705
+      Sprite_Enguarde_52: -431764749
+      Sprite_Enguarde_53: -886791317
+      Sprite_Enguarde_54: -97098226
+      Sprite_Enguarde_55: -1787732443
+      Sprite_Enguarde_56: 1358839063
+      Sprite_Enguarde_8: 2101674431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

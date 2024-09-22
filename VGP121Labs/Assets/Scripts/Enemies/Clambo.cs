@@ -11,7 +11,7 @@ public enum FiringDirection
     DownLeft,
     DownRight
 }
-
+[RequireComponent(typeof(SpriteRenderer), typeof(AudioSource))]
 public class Clambo : Enemy
 {
     [SerializeField] private GameObject projectilePrefab;
@@ -19,6 +19,9 @@ public class Clambo : Enemy
     [SerializeField] private Transform spawnPoint; // Single spawn point
     [SerializeField] private FiringDirection firingDirection; // Direction variable
     [SerializeField] private float projectileFireRate = 3f; // Time between shots
+
+    public AudioClip fireSound;
+
     private float timeSinceLastFire = 0f;
 
     public override void Start()
@@ -48,6 +51,7 @@ public class Clambo : Enemy
 
     public void Fire()
     {
+        audioSource.PlayOneShot(fireSound);
         Vector2 direction = Vector2.zero;
 
         // Directly set the direction based on the inspector value

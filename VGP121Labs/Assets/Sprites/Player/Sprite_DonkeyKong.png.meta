@@ -12437,7 +12437,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_587
+      name: DonkeyKong_Victory_3
       rect:
         serializedVersion: 2
         x: 112
@@ -12458,7 +12458,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_588
+      name: DonkeyKong_Victory_4
       rect:
         serializedVersion: 2
         x: 167
@@ -12479,7 +12479,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_589
+      name: DonkeyKong_Victory_5
       rect:
         serializedVersion: 2
         x: 227
@@ -12500,7 +12500,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_590
+      name: DonkeyKong_Victory_6
       rect:
         serializedVersion: 2
         x: 296
@@ -12521,7 +12521,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_591
+      name: DonkeyKong_Victory_7
       rect:
         serializedVersion: 2
         x: 369
@@ -12542,7 +12542,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_592
+      name: DonkeyKong_Victory_8
       rect:
         serializedVersion: 2
         x: 436
@@ -12563,7 +12563,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_593
+      name: DonkeyKong_Victory_9
       rect:
         serializedVersion: 2
         x: 499
@@ -12584,7 +12584,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_594
+      name: DonkeyKong_Victory_10
       rect:
         serializedVersion: 2
         x: 559
@@ -12605,7 +12605,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_595
+      name: DonkeyKong_Victory_11
       rect:
         serializedVersion: 2
         x: 619
@@ -12626,7 +12626,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_596
+      name: DonkeyKong_Victory_12
       rect:
         serializedVersion: 2
         x: 684
@@ -12647,7 +12647,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_597
+      name: DonkeyKong_Victory_13
       rect:
         serializedVersion: 2
         x: 751
@@ -12668,7 +12668,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_598
+      name: DonkeyKong_Victory_14
       rect:
         serializedVersion: 2
         x: 819
@@ -12773,7 +12773,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_603
+      name: DonkeyKong_Victory_1
       rect:
         serializedVersion: 2
         x: 9
@@ -12794,11 +12794,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_604
+      name: DonkeyKong_Victory_2
       rect:
         serializedVersion: 2
         x: 59
-        y: 910
+        y: 911
         width: 47
         height: 42
       alignment: 7
@@ -13109,7 +13109,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_619
+      name: DonkeyKong_Victory_15
       rect:
         serializedVersion: 2
         x: 1
@@ -13130,7 +13130,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_620
+      name: DonkeyKong_Victory_16
       rect:
         serializedVersion: 2
         x: 66
@@ -13151,7 +13151,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_621
+      name: DonkeyKong_Victory_17
       rect:
         serializedVersion: 2
         x: 116
@@ -13172,7 +13172,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_622
+      name: DonkeyKong_Victory_18
       rect:
         serializedVersion: 2
         x: 162
@@ -13193,7 +13193,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_623
+      name: DonkeyKong_Victory_19
       rect:
         serializedVersion: 2
         x: 205
@@ -13214,7 +13214,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_624
+      name: DonkeyKong_Victory_20
       rect:
         serializedVersion: 2
         x: 245
@@ -13235,7 +13235,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_625
+      name: DonkeyKong_Victory_21
       rect:
         serializedVersion: 2
         x: 286
@@ -13256,7 +13256,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_626
+      name: DonkeyKong_Victory_22
       rect:
         serializedVersion: 2
         x: 332
@@ -13277,7 +13277,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_627
+      name: DonkeyKong_Victory_23
       rect:
         serializedVersion: 2
         x: 383
@@ -13298,7 +13298,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_628
+      name: DonkeyKong_Victory_24
       rect:
         serializedVersion: 2
         x: 447
@@ -13319,10 +13319,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_629
+      name: DonkeyKong_Victory_25
       rect:
         serializedVersion: 2
-        x: 529
+        x: 528
         y: 839
         width: 35
         height: 49
@@ -13340,7 +13340,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_630
+      name: DonkeyKong_Victory_26
       rect:
         serializedVersion: 2
         x: 569
@@ -13361,7 +13361,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_631
+      name: DonkeyKong_Victory_27
       rect:
         serializedVersion: 2
         x: 607
@@ -13382,7 +13382,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_632
+      name: DonkeyKong_Victory_28
       rect:
         serializedVersion: 2
         x: 646
@@ -13403,7 +13403,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_633
+      name: DonkeyKong_Victory_29
       rect:
         serializedVersion: 2
         x: 692
@@ -13424,7 +13424,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_634
+      name: DonkeyKong_Victory_30
       rect:
         serializedVersion: 2
         x: 754
@@ -13445,7 +13445,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_635
+      name: DonkeyKong_Victory_31
       rect:
         serializedVersion: 2
         x: 806
@@ -13466,7 +13466,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_636
+      name: DonkeyKong_Victory_32
       rect:
         serializedVersion: 2
         x: 858
@@ -13487,11 +13487,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_637
+      name: DonkeyKong_Victory_33
       rect:
         serializedVersion: 2
         x: 900
-        y: 840
+        y: 841
         width: 33
         height: 55
       alignment: 7
@@ -13508,7 +13508,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_638
+      name: DonkeyKong_Victory_34
       rect:
         serializedVersion: 2
         x: 936
@@ -13529,7 +13529,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_639
+      name: DonkeyKong_Victory_35
       rect:
         serializedVersion: 2
         x: 973
@@ -13550,7 +13550,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_640
+      name: DonkeyKong_Victory_36
       rect:
         serializedVersion: 2
         x: 1011
@@ -13571,7 +13571,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprite_DonkeyKong_641
+      name: DonkeyKong_Victory_37
       rect:
         serializedVersion: 2
         x: 1054
@@ -21153,6 +21153,43 @@ TextureImporter:
       DonkeyKong_Swim7: -2015127934
       DonkeyKong_Swim8: 2034107397
       DonkeyKong_Swim9: -1452606449
+      DonkeyKong_Victory_1: -1103724446
+      DonkeyKong_Victory_10: -2127824130
+      DonkeyKong_Victory_11: -1898804214
+      DonkeyKong_Victory_12: -1847328838
+      DonkeyKong_Victory_13: -1014618672
+      DonkeyKong_Victory_14: 904078698
+      DonkeyKong_Victory_15: 1130919606
+      DonkeyKong_Victory_16: 1543939389
+      DonkeyKong_Victory_17: 1795864042
+      DonkeyKong_Victory_18: -1916349170
+      DonkeyKong_Victory_19: -1580666909
+      DonkeyKong_Victory_2: -904995779
+      DonkeyKong_Victory_20: -1569279833
+      DonkeyKong_Victory_21: 1793973109
+      DonkeyKong_Victory_22: 9939109
+      DonkeyKong_Victory_23: -1894225462
+      DonkeyKong_Victory_24: -424904598
+      DonkeyKong_Victory_25: -723406601
+      DonkeyKong_Victory_26: 1530725531
+      DonkeyKong_Victory_27: -675261938
+      DonkeyKong_Victory_28: -1501454225
+      DonkeyKong_Victory_29: 1426997272
+      DonkeyKong_Victory_3: -1240362163
+      DonkeyKong_Victory_30: 96717203
+      DonkeyKong_Victory_31: -919060057
+      DonkeyKong_Victory_32: 948118057
+      DonkeyKong_Victory_33: -1263937253
+      DonkeyKong_Victory_34: -1923581298
+      DonkeyKong_Victory_35: 352453935
+      DonkeyKong_Victory_36: -528261744
+      DonkeyKong_Victory_37: -1196411902
+      DonkeyKong_Victory_4: 767961258
+      DonkeyKong_Victory_5: -1376707707
+      DonkeyKong_Victory_6: -442003176
+      DonkeyKong_Victory_7: -1648002246
+      DonkeyKong_Victory_8: -724687864
+      DonkeyKong_Victory_9: -1175346215
       Sprite_DonkeyKong_0: 357876722
       Sprite_DonkeyKong_1: -1727119258
       Sprite_DonkeyKong_10: 16791111
@@ -21662,27 +21699,13 @@ TextureImporter:
       Sprite_DonkeyKong_584: 1893451017
       Sprite_DonkeyKong_585: 2094053835
       Sprite_DonkeyKong_586: -129464365
-      Sprite_DonkeyKong_587: -1240362163
-      Sprite_DonkeyKong_588: 767961258
-      Sprite_DonkeyKong_589: -1376707707
       Sprite_DonkeyKong_59: -1268494247
-      Sprite_DonkeyKong_590: -442003176
-      Sprite_DonkeyKong_591: -1648002246
-      Sprite_DonkeyKong_592: -724687864
-      Sprite_DonkeyKong_593: -1175346215
-      Sprite_DonkeyKong_594: -2127824130
-      Sprite_DonkeyKong_595: -1898804214
-      Sprite_DonkeyKong_596: -1847328838
-      Sprite_DonkeyKong_597: -1014618672
-      Sprite_DonkeyKong_598: 904078698
       Sprite_DonkeyKong_599: 1112811783
       Sprite_DonkeyKong_6: 665848014
       Sprite_DonkeyKong_60: 1647666132
       Sprite_DonkeyKong_600: -1576508548
       Sprite_DonkeyKong_601: -2095431201
       Sprite_DonkeyKong_602: 1017573567
-      Sprite_DonkeyKong_603: -1103724446
-      Sprite_DonkeyKong_604: -904995779
       Sprite_DonkeyKong_605: 482557413
       Sprite_DonkeyKong_606: -1189984032
       Sprite_DonkeyKong_607: -1300602850
@@ -21698,32 +21721,9 @@ TextureImporter:
       Sprite_DonkeyKong_616: -528536996
       Sprite_DonkeyKong_617: -154197058
       Sprite_DonkeyKong_618: -1282871514
-      Sprite_DonkeyKong_619: 1130919606
       Sprite_DonkeyKong_62: 68887818
-      Sprite_DonkeyKong_620: 1543939389
-      Sprite_DonkeyKong_621: 1795864042
-      Sprite_DonkeyKong_622: -1916349170
-      Sprite_DonkeyKong_623: -1580666909
-      Sprite_DonkeyKong_624: -1569279833
-      Sprite_DonkeyKong_625: 1793973109
-      Sprite_DonkeyKong_626: 9939109
-      Sprite_DonkeyKong_627: -1894225462
-      Sprite_DonkeyKong_628: -424904598
-      Sprite_DonkeyKong_629: -723406601
       Sprite_DonkeyKong_63: -313717699
-      Sprite_DonkeyKong_630: 1530725531
-      Sprite_DonkeyKong_631: -675261938
-      Sprite_DonkeyKong_632: -1501454225
-      Sprite_DonkeyKong_633: 1426997272
-      Sprite_DonkeyKong_634: 96717203
-      Sprite_DonkeyKong_635: -919060057
-      Sprite_DonkeyKong_636: 948118057
-      Sprite_DonkeyKong_637: -1263937253
-      Sprite_DonkeyKong_638: -1923581298
-      Sprite_DonkeyKong_639: 352453935
       Sprite_DonkeyKong_64: -764568663
-      Sprite_DonkeyKong_640: -528261744
-      Sprite_DonkeyKong_641: -1196411902
       Sprite_DonkeyKong_642: 1266376253
       Sprite_DonkeyKong_643: 225803517
       Sprite_DonkeyKong_644: 1305699343

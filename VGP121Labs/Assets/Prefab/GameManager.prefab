@@ -146,4 +146,6 @@ MonoBehaviour:
   maxLives: 99
   maxScore: 100
   playerPrefab: {fileID: 8348510386264816660, guid: ae557e7a3d764b147adb3a258419283b, type: 3}
-  pauseClip: {fileID: 0}
+  pauseClip: {fileID: 8300000, guid: 771f76c601486d64fb43618ceaee3f21, type: 3}
+  victoryClip: {fileID: 8300000, guid: a8ec138024e8f5e46a094fee301f81c2, type: 3}
+  deathClip: {fileID: 8300000, guid: c4720d68e72473946adda100680c37a5, type: 3}

@@ -17,6 +17,8 @@ public class Enemy : MonoBehaviour
     //Audio for enemy deaths
     [SerializeField] protected AudioClip deathClip;
 
+    [SerializeField] private bool isInvulnerable = false;
+
     // Start is called before the first frame update
     public virtual void Start()
     {
@@ -33,6 +35,8 @@ public class Enemy : MonoBehaviour
 
     public virtual void TakeDamage(int damage)
     {
+        if (isInvulnerable) return;
+
         health -= damage;
 
         if (health <= 0)
@@ -50,10 +54,13 @@ public class Enemy : MonoBehaviour
                 Destroy(gameObject, 2);
         }
     }
-
-    // Update is called once per frame
-    void Update()
+    public bool IsInvulnerable()
     {
+        return isInvulnerable;
+    }
 
+    public void SetInvulnerability(bool state)
+    {
+        isInvulnerable = state;
     }
 }

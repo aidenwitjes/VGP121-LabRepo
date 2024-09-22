@@ -1,5 +1,5 @@
 using System;
-using UnityEditor;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance => instance;
 
     public Action<int> OnLifeValueChanged;
+    public Action<int> OnScoreValueChanged;
     //Public UnityEvent<int> OnLifeValueChanged;
 
     //Private Lives variable (_ to indicate an internal variable)
@@ -18,6 +19,9 @@ public class GameManager : MonoBehaviour
 
     //Variable to track the pause state of the game
     private bool isPaused = false;
+
+    private float deathTimer;
+    private bool isPlayerDead = false;
 
     //Public variable for getting and setting lives
     public int lives
@@ -38,7 +42,7 @@ public class GameManager : MonoBehaviour
             //Lost a life
             if (value < _lives)
             {
-                Respawn();
+                HandlePlayerDeath();
             }
 
             //Cannot roll over the maximum amount of lives
@@ -72,6 +76,7 @@ public class GameManager : MonoBehaviour
                 //Update lives by 1
             }
             _score = value;
+            OnScoreValueChanged?.Invoke(_score);
 
             Debug.Log($"Score value on {gameObject.name} has changed to {score}");
         }
@@ -86,6 +91,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] private int maxScore = 100;
     [SerializeField] private PlayerController playerPrefab;
     [SerializeField] private AudioClip pauseClip;
+    [SerializeField] private AudioClip victoryClip;
+    [SerializeField] private AudioClip deathClip;
 
     AudioSource audioSource;
     [HideInInspector] public PlayerController PlayerInstance => playerInstance;
@@ -113,6 +120,16 @@ public class GameManager : MonoBehaviour
 
         if (!currentMenuController) return;
 
+        if (isPlayerDead)
+        {
+            deathTimer += Time.deltaTime;
+            if (deathTimer >= 2f) // Adjust based on your animation length
+            {
+                Respawn();
+                isPlayerDead = false;
+            }
+        }
+
         if (Input.GetKeyDown(KeyCode.Escape) && (SceneManager.GetActiveScene().name == "Level 1"))
         {
             if (isPaused)
@@ -123,7 +140,7 @@ public class GameManager : MonoBehaviour
             {
                 PauseGame();
             }
-            //audioSource.PlayOneShot(pauseClip);
+            audioSource.PlayOneShot(pauseClip);
         }
     }
 
@@ -156,7 +173,56 @@ public class GameManager : MonoBehaviour
         }
     }
 
-   void Respawn()
+    public void TriggerVictory()
+    {
+        // Logic to handle victory, like updating score or lives if needed
+        // Then call the victory animation on the player
+        PlayerController player = PlayerInstance; // Assuming you have a reference to the player
+        if (player != null)
+        {
+            Animator animator = player.GetComponent<Animator>();
+            if (animator != null)
+            {
+                audioSource.PlayOneShot(victoryClip);
+                animator.SetTrigger("Victory");
+            }
+
+            // Start the scene change after a delay
+            StartCoroutine(ChangeSceneAfterDelay("VictoryScreen", 2f)); // Adjust delay as needed
+        }
+    }
+
+    private IEnumerator ChangeSceneAfterDelay(string sceneName, float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        SceneManager.LoadScene(sceneName);
+    }
+
+    private void HandlePlayerDeath()
+    {
+        audioSource.PlayOneShot(deathClip);
+        PlayerController player = PlayerInstance; // Assuming you have a reference to the player
+        if (player != null)
+        {
+            Animator animator = player.GetComponent<Animator>();
+            if (animator != null)
+            {
+                animator.SetTrigger("Death");
+            }
+
+            // Disable the player's collider here if needed
+            Collider2D playerCollider = player.GetComponent<Collider2D>();
+            if (playerCollider != null)
+            {
+                playerCollider.enabled = false; // Disable the player's collider
+            }
+
+            isPlayerDead = true; // Set the death flag
+            deathTimer = 0f; // Reset the timer
+        }
+    }
+
+    void Respawn()
 {
     if (currentCheckpoint != null)
     {
@@ -167,6 +233,11 @@ public class GameManager : MonoBehaviour
         Debug.LogWarning("Attempted to respawn, but currentCheckpoint is null.");
         // Optionally, handle the case when there's no checkpoint set
     }
+        Collider2D playerCollider = playerInstance.GetComponent<Collider2D>();
+        if (playerCollider != null)
+        {
+            playerCollider.enabled = true;
+        }
 }
 
     public void SpawnPlayer(Transform spawnLocation)

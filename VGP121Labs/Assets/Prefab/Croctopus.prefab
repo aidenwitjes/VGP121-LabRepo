@@ -247,6 +247,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 0
   deathClip: {fileID: 0}
+  isInvulnerable: 1
   speed: 7
   startPoint: {x: 0, y: 0}
   size: {x: 10, y: 5}
