@@ -33,12 +33,18 @@ public class Pickup : MonoBehaviour
                 case PickupType.DKBarrel:
                     break;
                 case PickupType.CheckPointBarrel:
-                    break;
+                    Checkpoint checkpoint = GetComponent<Checkpoint>();
+                    if (checkpoint != null)
+                    {
+                        checkpoint.ActivateCheckpoint();
+                    }
+                    gameObject.GetComponent<Collider2D>().enabled = false;
+                    gameObject.GetComponent<SpriteRenderer>().enabled = false;
+                    return;
                 case PickupType.AnimalCrate:
                     break;
             }
             Destroy(gameObject);
         }
-
     }
 }

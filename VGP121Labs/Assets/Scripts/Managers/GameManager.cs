@@ -113,7 +113,7 @@ public class GameManager : MonoBehaviour
 
         if (!currentMenuController) return;
 
-        if (Input.GetKeyDown(KeyCode.Escape) && (SceneManager.GetActiveScene().name == "Level 1") || (SceneManager.GetActiveScene().name == "BossLevel"))
+        if (Input.GetKeyDown(KeyCode.Escape) && (SceneManager.GetActiveScene().name == "Level 1"))
         {
             if (isPaused)
             {
@@ -149,17 +149,25 @@ public class GameManager : MonoBehaviour
 
     void GameOver()
     {
-        if ((SceneManager.GetActiveScene().name == "Level 1") || (SceneManager.GetActiveScene().name == "BossLevel"))
+        if ((SceneManager.GetActiveScene().name == "Level 1"))
         {
             SceneManager.LoadScene("GameOver");
             Debug.Log("Out of lives. Game Over!");
         }
     }
 
-    void Respawn()
+   void Respawn()
+{
+    if (currentCheckpoint != null)
     {
         playerInstance.transform.position = currentCheckpoint.position;
     }
+    else
+    {
+        Debug.LogWarning("Attempted to respawn, but currentCheckpoint is null.");
+        // Optionally, handle the case when there's no checkpoint set
+    }
+}
 
     public void SpawnPlayer(Transform spawnLocation)
     {
@@ -170,6 +178,7 @@ public class GameManager : MonoBehaviour
     public void UpdateCheckpoint(Transform updatedCheckpoint)
     {
         currentCheckpoint = updatedCheckpoint;
+        Debug.Log($"Checkpoint updated to position: {currentCheckpoint.position}");
     }
 
     public void SetMenuController(MenuController menuController)

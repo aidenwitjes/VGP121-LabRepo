@@ -7,7 +7,6 @@ public class PlayerController : MonoBehaviour
 {
     // Movement Variables
     [SerializeField, Range(1, 20)] private float swimSpeed = 5.0f;
-    [SerializeField, Range(1, 20)] private float maxSwimSpeed = 10.0f;
     [SerializeField, Range(1, 20)] private float swimForce = 5.0f;
     [SerializeField] private float maxSinkVel = -5.0f; // Cap for sinking velocity
     [SerializeField] private float maxSwimUpVel = 10.0f; // Cap for swimming up velocity

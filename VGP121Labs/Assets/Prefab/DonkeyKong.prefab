@@ -145,14 +145,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0a6383e84cb5bb43aa460ca1e6a5e87, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  swimSpeed: 5
-  maxSwimSpeed: 7.5
-  landSpeed: 7
-  jumpForce: 5
-  groundCheckRadius: 0.02
-  isGroundLayer:
-    serializedVersion: 2
-    m_Bits: 8
+  swimSpeed: 7
+  swimForce: 5
   maxSinkVel: -5
   maxSwimUpVel: 10
 --- !u!50 &3982689538726870437
