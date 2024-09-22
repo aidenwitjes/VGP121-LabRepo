@@ -4037,7 +4037,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Donkey Kong Country - Aquatic Enemies_187
+      name: ClamboProjectile
       rect:
         serializedVersion: 2
         x: 531
@@ -5241,6 +5241,7 @@ TextureImporter:
       Chomps_Turn_7: 1275378333
       Chomps_Turn_8: 2120498001
       Chomps_Turn_9: -1043189311
+      ClamboProjectile: -314257229
       Clambo_Fire_1: -535038535
       Clambo_Fire_10: 1493706085
       Clambo_Fire_11: 273705414
@@ -5328,7 +5329,6 @@ TextureImporter:
       SNES - Donkey Kong Country - Aquatic Enemies_173: 1095885889
       SNES - Donkey Kong Country - Aquatic Enemies_174: -122776262
       SNES - Donkey Kong Country - Aquatic Enemies_175: -497495613
-      SNES - Donkey Kong Country - Aquatic Enemies_187: -314257229
       SNES - Donkey Kong Country - Aquatic Enemies_188: -1346857921
       SNES - Donkey Kong Country - Aquatic Enemies_189: -1075954076
       SNES - Donkey Kong Country - Aquatic Enemies_190: 827293913

@@ -11,6 +11,8 @@ TagManager:
   - ChompsBarrier
   - ChompsJrBarrier
   - BitesizeBarrier
+  - Barrier
+  - Wall
   layers:
   - Default
   - TransparentFX
