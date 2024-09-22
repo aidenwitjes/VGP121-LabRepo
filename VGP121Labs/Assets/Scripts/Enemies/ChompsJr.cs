@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class ChompsJr : Enemy
 {
-    Rigidbody2D rb;
     [SerializeField] private float speed;
     public float amplitude = 1.0f;
     public float frequency = 2.0f;
 
+    Rigidbody2D rb;
     public override void Start()
     {
         base.Start();

@@ -4,11 +4,11 @@ using UnityEngine;
 
 public class Bitesize : Enemy
 {
-    Rigidbody2D rb;
     [SerializeField] private float speed;
     public float amplitude = 2.0f;
     public float frequency = 5.0f;
 
+    Rigidbody2D rb;
     public override void Start()
     {
         base.Start();

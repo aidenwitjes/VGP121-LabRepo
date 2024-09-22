@@ -12,7 +12,7 @@ public enum FiringDirection
     DownRight
 }
 
-public class Clambo : MonoBehaviour
+public class Clambo : Enemy
 {
     [SerializeField] private GameObject projectilePrefab;
     [SerializeField] private int numberOfProjectiles = 1; // Set in prefab
@@ -20,13 +20,12 @@ public class Clambo : MonoBehaviour
     [SerializeField] private FiringDirection firingDirection; // Direction variable
     [SerializeField] private float projectileFireRate = 3f; // Time between shots
     private float timeSinceLastFire = 0f;
-    private Animator anim;
 
-    private void Start()
+    public override void Start()
     {
-        anim = GetComponent<Animator>(); // Assuming Clambo has an Animator component
+        base.Start();
         if (projectileFireRate <= 0)
-            projectileFireRate = 3f; // Default fire rate
+            projectileFireRate = 3f;
     }
 
     private void Update()
